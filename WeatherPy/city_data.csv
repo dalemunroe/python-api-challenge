@@ -1,549 +1,562 @@
 City,Lat,Long,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Time
-Ponta do Sol,32.6667,-17.1,25.4,74,0,1.37,PT,<module 'time' (built-in)>
-Fairbanks,64.8378,-147.7164,10.98,90,100,2.57,US,<module 'time' (built-in)>
-Saint-Pierre,-21.3393,55.4781,21.82,71,75,2.57,RE,<module 'time' (built-in)>
-Vardø,70.3705,31.1107,11.99,82,100,2.57,NO,<module 'time' (built-in)>
-Shingū,33.7333,135.9833,25.19,92,20,2.15,JP,<module 'time' (built-in)>
-Ushuaia,-54.8,-68.3,-0.19,93,20,1.03,AR,<module 'time' (built-in)>
-Rikitea,-23.1203,-134.9692,20.34,67,87,8.77,PF,<module 'time' (built-in)>
-Tocopilla,-22.092,-70.1979,17.97,60,0,4.34,CL,<module 'time' (built-in)>
-Birjand,32.8663,59.2211,32.26,8,0,7.2,IR,<module 'time' (built-in)>
-Kangaatsiaq,68.3065,-53.4641,4.28,95,100,2.4,GL,<module 'time' (built-in)>
-Nagato,34.3833,131.2,26.7,91,4,2.93,JP,<module 'time' (built-in)>
-Puerto Ayora,-0.7393,-90.3518,21.98,91,94,4.47,EC,<module 'time' (built-in)>
-Conceição do Araguaia,-8.2578,-49.2647,30.97,45,94,1.94,BR,<module 'time' (built-in)>
-Vangaindrano,-23.35,47.6,20.07,86,2,2.46,MG,<module 'time' (built-in)>
-Hermanus,-34.4187,19.2345,14.33,71,100,9.19,ZA,<module 'time' (built-in)>
-Zholymbet,51.7433,71.7122,21.43,40,0,3.74,KZ,<module 'time' (built-in)>
-Kapaa,22.0752,-159.319,23.18,93,75,3.09,US,<module 'time' (built-in)>
-Anito,12.4497,125.2886,24.74,92,100,2.08,PH,<module 'time' (built-in)>
-Grindavik,63.8424,-22.4338,13.97,94,75,6.17,IS,<module 'time' (built-in)>
-Arraial do Cabo,-22.9661,-42.0278,22.98,68,75,5.14,BR,<module 'time' (built-in)>
-Mendoza,-32.8908,-68.8272,7.74,57,75,5.14,AR,<module 'time' (built-in)>
-Carnarvon,-24.8667,113.6333,18.14,54,0,6.43,AU,<module 'time' (built-in)>
-Bengkulu,-3.8004,102.2655,24.45,84,0,1.89,ID,<module 'time' (built-in)>
-Aksu,41.1231,80.2644,21.77,58,55,1.7,CN,<module 'time' (built-in)>
-Estelle,29.8458,-90.1067,31.11,75,75,3.6,US,<module 'time' (built-in)>
-Barrow,71.2906,-156.7887,1.13,96,100,7.68,US,<module 'time' (built-in)>
-Port Alfred,-33.5906,26.891,16.21,88,20,2.24,ZA,<module 'time' (built-in)>
-Pozo Colorado,-23.4923,-58.7972,16.02,85,100,1.74,PY,<module 'time' (built-in)>
-Atuona,-9.8,-139.0333,24.95,76,55,8.41,PF,<module 'time' (built-in)>
-Port Elizabeth,-33.918,25.5701,16.16,91,75,4.63,ZA,<module 'time' (built-in)>
-Cabo San Lucas,22.8909,-109.9124,30.84,61,50,2.6,MX,<module 'time' (built-in)>
-Port Hardy,50.6996,-127.4199,13.1,94,100,0.0,CA,<module 'time' (built-in)>
-Albany,42.6001,-73.9662,30.15,72,41,1.79,US,<module 'time' (built-in)>
-Shimoda,34.6667,138.95,23.39,88,84,2.5,JP,<module 'time' (built-in)>
-Saint George,37.1041,-113.5841,27.66,54,0,3.09,US,<module 'time' (built-in)>
-Busselton,-33.65,115.3333,13.52,87,29,7.27,AU,<module 'time' (built-in)>
-Mataura,-46.1927,168.8643,6.65,89,93,0.96,NZ,<module 'time' (built-in)>
-Greensburg,40.3015,-79.5389,25.42,97,40,0.0,US,<module 'time' (built-in)>
-Bredasdorp,-34.5322,20.0403,13.38,72,100,7.3,ZA,<module 'time' (built-in)>
-Tuktoyaktuk,69.4541,-133.0374,15.0,88,100,3.09,CA,<module 'time' (built-in)>
-Provideniya,64.3833,-173.3,8.22,88,62,2.42,RU,<module 'time' (built-in)>
-Taunggyi,20.7833,97.0333,18.32,97,90,1.09,MM,<module 'time' (built-in)>
-Hobart,-42.8794,147.3294,5.92,86,100,2.57,AU,<module 'time' (built-in)>
-Yar-Sale,66.8333,70.8333,16.49,68,94,4.76,RU,<module 'time' (built-in)>
-Khatanga,71.9667,102.5,14.67,77,26,1.83,RU,<module 'time' (built-in)>
-Chui,-33.6971,-53.4616,11.42,67,99,2.06,UY,<module 'time' (built-in)>
-Lyuban',52.7985,28.0048,27.76,51,83,1.44,BY,<module 'time' (built-in)>
-Constitución,-35.3333,-72.4167,11.94,93,100,5.54,CL,<module 'time' (built-in)>
-Saint-Augustin,51.226,-58.6502,23.42,34,63,5.89,CA,<module 'time' (built-in)>
-Jamestown,42.097,-79.2353,27.79,68,40,3.6,US,<module 'time' (built-in)>
-Belaya Gora,68.5333,146.4167,10.78,87,100,0.53,RU,<module 'time' (built-in)>
-Inta,66.0317,60.1659,23.89,63,98,0.75,RU,<module 'time' (built-in)>
-Awasa,7.05,38.4667,22.85,51,58,5.56,ET,<module 'time' (built-in)>
-Castro,-24.7911,-50.0119,18.0,69,98,2.73,BR,<module 'time' (built-in)>
-Ancud,-41.8697,-73.8203,6.79,70,100,4.16,CL,<module 'time' (built-in)>
-Vaini,-21.2,-175.2,22.09,100,75,2.57,TO,<module 'time' (built-in)>
-Guerrero Negro,27.9769,-114.0611,22.33,83,97,4.97,MX,<module 'time' (built-in)>
-Nouadhibou,20.931,-17.0347,26.99,74,5,5.66,MR,<module 'time' (built-in)>
-Jalu,29.0331,21.5482,36.81,16,0,7.07,LY,<module 'time' (built-in)>
-Mitsamiouli,-11.3847,43.2844,25.02,64,88,3.65,KM,<module 'time' (built-in)>
-Port Lincoln,-34.7333,135.8667,10.78,75,7,4.6,AU,<module 'time' (built-in)>
-Chokurdakh,70.6333,147.9167,3.16,94,100,3.92,RU,<module 'time' (built-in)>
-Pokhara,28.2333,83.9833,23.56,90,100,0.84,NP,<module 'time' (built-in)>
-Luang Prabang,19.8856,102.1347,23.86,99,100,0.46,LA,<module 'time' (built-in)>
-Port Blair,11.6667,92.75,28.02,83,100,5.66,IN,<module 'time' (built-in)>
-Khvoynaya,58.9,34.5333,24.37,59,88,3.22,RU,<module 'time' (built-in)>
-Manokwari,-0.8667,134.0833,25.52,77,100,1.62,ID,<module 'time' (built-in)>
-Yellowknife,62.456,-114.3525,15.31,63,75,7.2,CA,<module 'time' (built-in)>
-Dire Dawa,9.5931,41.8661,26.21,49,82,4.98,ET,<module 'time' (built-in)>
-Bethel,41.3712,-73.414,31.42,68,20,2.57,US,<module 'time' (built-in)>
-Cape Town,-33.9258,18.4232,20.06,64,20,9.26,ZA,<module 'time' (built-in)>
-Portsmouth,50.799,-1.0913,24.52,74,10,0.89,GB,<module 'time' (built-in)>
-Sémbé,1.6481,14.5806,27.85,68,40,1.69,CG,<module 'time' (built-in)>
-Vila Franca do Campo,37.7167,-25.4333,24.23,73,61,4.21,PT,<module 'time' (built-in)>
-Qaanaaq,77.484,-69.3632,5.27,58,100,1.41,GL,<module 'time' (built-in)>
-Nipawin,53.3668,-104.0009,13.02,94,0,3.09,CA,<module 'time' (built-in)>
-Lavrentiya,65.5833,-171.0,5.95,88,90,1.57,RU,<module 'time' (built-in)>
-Ixtapa,20.7,-105.2,26.13,86,100,0.59,MX,<module 'time' (built-in)>
-St Helens,53.45,-2.7333,21.13,58,0,5.66,GB,<module 'time' (built-in)>
-Tasiilaq,65.6145,-37.6368,8.09,77,100,5.34,GL,<module 'time' (built-in)>
-Nanortalik,60.1432,-45.2371,6.81,98,99,3.81,GL,<module 'time' (built-in)>
-Avarua,-21.2078,-159.775,21.03,88,100,5.14,CK,<module 'time' (built-in)>
-Upernavik,72.7868,-56.1549,4.89,91,73,4.36,GL,<module 'time' (built-in)>
-Lebu,-37.6167,-73.65,9.97,93,100,1.96,CL,<module 'time' (built-in)>
-Tobane,-21.95,27.9,28.33,17,3,3.48,BW,<module 'time' (built-in)>
-Mogadishu,2.0371,45.3438,26.93,74,20,9.26,SO,<module 'time' (built-in)>
-Thompson,55.7435,-97.8558,12.09,82,20,3.6,CA,<module 'time' (built-in)>
-Hong Kong,22.2855,114.1577,29.03,92,63,2.24,HK,<module 'time' (built-in)>
-Usinsk,65.9939,57.5281,26.06,53,32,1.28,RU,<module 'time' (built-in)>
-Hirado,33.3597,129.5531,27.99,89,9,3.77,JP,<module 'time' (built-in)>
-Flin Flon,54.7682,-101.865,13.91,82,20,3.09,CA,<module 'time' (built-in)>
-Alofi,-19.0595,-169.9187,21.94,94,100,5.14,NU,<module 'time' (built-in)>
-Shahr-e Kord,32.3256,50.8644,33.87,12,40,1.03,IR,<module 'time' (built-in)>
-Faanui,-16.4833,-151.75,25.52,76,65,11.21,PF,<module 'time' (built-in)>
-Kokopo,-4.352,152.2633,24.52,86,48,3.23,PG,<module 'time' (built-in)>
-Saint-Philippe,-21.3585,55.7679,21.77,71,48,2.79,RE,<module 'time' (built-in)>
-Aklavik,68.2191,-135.0107,13.0,94,100,4.63,CA,<module 'time' (built-in)>
-Kokoda,-8.8785,147.7407,23.46,94,100,0.34,PG,<module 'time' (built-in)>
-Amahai,-3.3333,128.9167,24.08,93,100,1.18,ID,<module 'time' (built-in)>
-Santana do Livramento,-30.8908,-55.5328,10.78,73,100,5.27,BR,<module 'time' (built-in)>
-Byron Bay,-28.65,153.6167,12.98,63,0,4.51,AU,<module 'time' (built-in)>
-Severo-Kuril'sk,50.6789,156.125,11.67,94,100,4.41,RU,<module 'time' (built-in)>
-Butaritari,3.0707,172.7902,27.48,78,85,6.83,KI,<module 'time' (built-in)>
-Caltagirone,37.2368,14.5126,31.84,25,16,5.38,IT,<module 'time' (built-in)>
-Asău,46.4333,26.4,28.51,52,100,2.43,RO,<module 'time' (built-in)>
-Ubatuba,-23.4339,-45.0711,20.13,81,100,1.44,BR,<module 'time' (built-in)>
-Mar del Plata,-38.0023,-57.5575,10.05,77,0,2.06,AR,<module 'time' (built-in)>
-Vrangel',42.7297,133.0839,21.89,95,2,2.3,RU,<module 'time' (built-in)>
-Piaçabuçu,-10.4056,-36.4344,26.01,73,49,5.79,BR,<module 'time' (built-in)>
-Hukuntsi,-24.0,21.75,27.73,13,82,3.07,BW,<module 'time' (built-in)>
-Winnemucca,40.973,-117.7357,18.03,88,0,4.63,US,<module 'time' (built-in)>
-San Angelo,31.4638,-100.437,30.53,50,0,3.6,US,<module 'time' (built-in)>
-Mitú,1.1983,-70.1733,27.68,69,74,1.84,CO,<module 'time' (built-in)>
-Ruska Poliana,49.417,31.9201,29.08,42,7,4.11,UA,<module 'time' (built-in)>
-Dikson,73.5069,80.5464,5.6,99,99,3.6,RU,<module 'time' (built-in)>
-Avera,33.194,-82.5271,30.31,63,89,2.69,US,<module 'time' (built-in)>
-Ormara,25.2088,64.6357,27.95,83,100,5.17,PK,<module 'time' (built-in)>
-Chirongui,-12.9319,45.1483,24.96,64,11,4.09,YT,<module 'time' (built-in)>
-New Norfolk,-42.7826,147.0587,5.72,91,100,0.64,AU,<module 'time' (built-in)>
-Punta Arenas,-53.15,-70.9167,3.01,93,40,2.57,CL,<module 'time' (built-in)>
-Iraray,8.9936,118.0511,24.67,91,100,1.47,PH,<module 'time' (built-in)>
-Codrington,-38.2667,141.9667,9.65,83,100,3.71,AU,<module 'time' (built-in)>
-Te Anau,-45.4167,167.7167,7.28,93,97,1.53,NZ,<module 'time' (built-in)>
-Cidreira,-30.1811,-50.2056,13.56,66,37,2.52,BR,<module 'time' (built-in)>
-Dukat,62.55,155.55,11.23,84,71,3.7,RU,<module 'time' (built-in)>
-Disna,55.568,28.1971,22.78,82,84,4.62,BY,<module 'time' (built-in)>
-Muros,42.7762,-9.0603,26.72,50,29,0.91,ES,<module 'time' (built-in)>
-Rabo de Peixe,37.8,-25.5833,23.73,83,40,3.6,PT,<module 'time' (built-in)>
-Surovikino,48.6078,42.8486,32.94,16,20,7.0,RU,<module 'time' (built-in)>
-Katobu,-4.9408,122.5276,23.26,85,100,1.24,ID,<module 'time' (built-in)>
-Safi,32.2994,-9.2372,25.3,65,1,9.86,MA,<module 'time' (built-in)>
-Mae Sai,20.4335,99.8762,23.53,98,100,0.22,TH,<module 'time' (built-in)>
-Aligoodarz,33.4006,49.6949,32.1,17,64,4.28,IR,<module 'time' (built-in)>
-Norman Wells,65.282,-126.8329,15.02,94,100,4.12,CA,<module 'time' (built-in)>
-Tiarei,-17.5333,-149.3333,22.01,80,77,10.99,PF,<module 'time' (built-in)>
-Araouane,18.9048,-3.5265,38.66,25,72,1.45,ML,<module 'time' (built-in)>
-Lagoa,39.05,-27.9833,24.17,79,30,4.52,PT,<module 'time' (built-in)>
-Leningradskiy,69.3833,178.4167,1.57,94,98,0.5,RU,<module 'time' (built-in)>
-Arinos,-15.9169,-46.1056,32.97,16,3,2.27,BR,<module 'time' (built-in)>
-Sabha,27.0377,14.4283,41.0,9,0,6.53,LY,<module 'time' (built-in)>
-Mount Gambier,-37.8333,140.7667,8.81,93,91,2.69,AU,<module 'time' (built-in)>
-Hasaki,35.7333,140.8333,23.22,80,100,2.32,JP,<module 'time' (built-in)>
-Avesta,60.1455,16.1679,17.85,52,90,3.73,SE,<module 'time' (built-in)>
-Mahébourg,-20.4081,57.7,22.16,78,75,5.14,MU,<module 'time' (built-in)>
-Bluff,-46.6,168.3333,6.61,94,77,10.68,NZ,<module 'time' (built-in)>
-Sindor,62.8629,51.8905,26.14,52,8,1.83,RU,<module 'time' (built-in)>
-Tiksi,71.6872,128.8694,3.96,90,100,7.06,RU,<module 'time' (built-in)>
-Hervey Bay,-25.2986,152.8535,16.88,81,91,4.09,AU,<module 'time' (built-in)>
-Rehoboth,-23.3167,17.0833,27.11,14,62,7.41,NA,<module 'time' (built-in)>
-Esperance,-33.8667,121.9,11.84,66,33,4.85,AU,<module 'time' (built-in)>
-Rutland,43.6167,-73.0162,30.14,72,20,2.06,US,<module 'time' (built-in)>
-Lota,-37.0833,-73.1667,10.7,95,100,2.3,CL,<module 'time' (built-in)>
-Christchurch,-43.5333,172.6333,11.06,97,100,1.03,NZ,<module 'time' (built-in)>
-Saskylakh,71.9167,114.0833,10.33,60,100,3.81,RU,<module 'time' (built-in)>
-Tiznit Province,29.5833,-9.5,36.45,17,48,5.18,MA,<module 'time' (built-in)>
-Ribeira Grande,38.5167,-28.7,26.22,78,40,7.72,PT,<module 'time' (built-in)>
-Vanino,49.0869,140.2543,15.66,99,100,1.68,RU,<module 'time' (built-in)>
-Sarangani,5.4033,125.4636,27.57,76,91,1.01,PH,<module 'time' (built-in)>
-Ballina,-28.8667,153.5667,13.02,65,0,4.12,AU,<module 'time' (built-in)>
-Hithadhoo,-0.6,73.0833,28.28,72,50,5.44,MV,<module 'time' (built-in)>
-Esna,25.2934,32.554,42.01,12,15,6.85,EG,<module 'time' (built-in)>
-Zaysan,47.4667,84.8667,21.77,37,77,3.18,KZ,<module 'time' (built-in)>
-Champerico,14.3,-91.9167,27.3,80,55,1.32,GT,<module 'time' (built-in)>
-Chifeng,42.2683,118.9636,25.49,75,100,2.77,CN,<module 'time' (built-in)>
-Ust'-Ilimsk,58.0006,102.6619,8.99,98,100,1.47,RU,<module 'time' (built-in)>
-Klaksvík,62.2266,-6.589,11.51,99,100,6.14,FO,<module 'time' (built-in)>
-Paamiut,61.994,-49.6678,6.55,95,100,5.02,GL,<module 'time' (built-in)>
-Lumberton,34.6182,-79.0086,30.51,50,26,2.44,US,<module 'time' (built-in)>
-Bucak,37.4592,30.595,34.29,37,0,4.25,TR,<module 'time' (built-in)>
-San Cristobal,7.7669,-72.225,21.1,58,97,2.89,VE,<module 'time' (built-in)>
-Camacha,33.0833,-16.3333,22.68,64,40,5.14,PT,<module 'time' (built-in)>
-Tutóia,-2.7619,-42.2744,29.98,56,6,5.42,BR,<module 'time' (built-in)>
-Safford,32.834,-109.7076,27.84,73,0,5.14,US,<module 'time' (built-in)>
-Tambopata,-12.7333,-69.1833,19.94,94,100,0.51,PE,<module 'time' (built-in)>
-Olafsvik,64.8945,-23.7142,12.07,91,95,2.02,IS,<module 'time' (built-in)>
-Yinchuan,38.4681,106.2731,29.46,49,65,4.51,CN,<module 'time' (built-in)>
-Hilo,19.7297,-155.09,24.6,96,100,2.06,US,<module 'time' (built-in)>
-Dingle,10.9995,122.6711,24.39,92,100,0.55,PH,<module 'time' (built-in)>
-Lovozero,68.005,35.0117,21.53,68,100,8.11,RU,<module 'time' (built-in)>
-Torbay,47.6666,-52.7314,26.05,73,75,4.92,CA,<module 'time' (built-in)>
-Cayenne,4.9333,-52.3333,32.02,18,40,3.09,GF,<module 'time' (built-in)>
-Morro Bay,35.3658,-120.8499,16.51,95,25,2.24,US,<module 'time' (built-in)>
-Sirte,31.2089,16.5887,29.29,57,0,5.71,LY,<module 'time' (built-in)>
-Tual,-5.6667,132.75,26.81,81,93,3.21,ID,<module 'time' (built-in)>
-Biryusinsk,55.9634,97.8235,8.64,90,82,2.05,RU,<module 'time' (built-in)>
-Esim,4.8699,-2.2405,26.13,65,11,4.58,GH,<module 'time' (built-in)>
-Manaus,-3.1019,-60.025,32.28,62,0,5.66,BR,<module 'time' (built-in)>
-Itarema,-2.9248,-39.9167,30.29,50,6,7.41,BR,<module 'time' (built-in)>
-Labuhan,-6.8844,112.2051,25.8,77,91,1.91,ID,<module 'time' (built-in)>
-Kindu,-2.95,25.95,34.97,26,86,0.69,CD,<module 'time' (built-in)>
-Road Town,18.4167,-64.6167,32.05,70,40,5.14,VG,<module 'time' (built-in)>
-Batagay,67.6333,134.6333,9.57,98,100,1.52,RU,<module 'time' (built-in)>
-Aljezur,37.3191,-8.8033,22.95,64,4,4.73,PT,<module 'time' (built-in)>
-Debre Tabor,11.85,38.0167,12.32,93,92,1.58,ET,<module 'time' (built-in)>
-Polunochnoye,60.8697,60.4153,22.28,66,96,1.2,RU,<module 'time' (built-in)>
-George Town,5.4112,100.3354,29.38,80,20,1.03,MY,<module 'time' (built-in)>
-College,64.8569,-147.8028,10.97,90,100,2.57,US,<module 'time' (built-in)>
-Yulara,-25.2406,130.9889,10.44,39,0,4.07,AU,<module 'time' (built-in)>
-Clearwater,27.9659,-82.8001,31.64,71,40,4.63,US,<module 'time' (built-in)>
-Raja,8.4596,25.678,23.69,93,100,1.47,SS,<module 'time' (built-in)>
-Alice Springs,-23.7,133.8833,4.75,56,0,0.0,AU,<module 'time' (built-in)>
-Airai,-8.9266,125.4092,14.78,96,98,1.25,TL,<module 'time' (built-in)>
-Alanya,36.5438,31.9998,31.07,70,4,2.87,TR,<module 'time' (built-in)>
-Lithakia,37.7167,20.8333,34.6,38,20,4.12,GR,<module 'time' (built-in)>
-Nejapa,13.8138,-89.2306,26.78,92,0,2.06,SV,<module 'time' (built-in)>
-Sakakah,29.9697,40.2064,45.76,11,9,5.85,SA,<module 'time' (built-in)>
-Sault Ste. Marie,46.5168,-84.3333,24.31,82,75,2.57,CA,<module 'time' (built-in)>
-Nikolskoye,59.7035,30.7861,20.49,85,100,4.69,RU,<module 'time' (built-in)>
-Vao,-22.6667,167.4833,23.04,83,20,5.54,NC,<module 'time' (built-in)>
-Salalah,17.0151,54.0924,26.05,89,100,1.54,OM,<module 'time' (built-in)>
-Tessalit,20.1986,1.0114,40.46,17,64,3.35,ML,<module 'time' (built-in)>
-Emerald,-23.5333,148.1667,15.08,100,40,0.0,AU,<module 'time' (built-in)>
-Mossamedes,-15.1961,12.1522,19.13,76,43,5.14,AO,<module 'time' (built-in)>
-Ranau,5.9538,116.6641,21.08,89,100,1.26,MY,<module 'time' (built-in)>
-Puro,12.4841,123.3827,24.21,92,100,1.22,PH,<module 'time' (built-in)>
-Naze,28.3667,129.4833,26.51,82,1,1.29,JP,<module 'time' (built-in)>
-Tura,25.5198,90.2201,23.7,97,55,0.91,IN,<module 'time' (built-in)>
-Itabira,-19.6192,-43.2269,28.63,30,1,1.93,BR,<module 'time' (built-in)>
-São Filipe,14.8961,-24.4956,25.35,82,82,2.13,CV,<module 'time' (built-in)>
-Chul'man,56.8479,124.9104,7.7,97,100,1.99,RU,<module 'time' (built-in)>
-Saldanha,-33.0117,17.9442,22.03,73,0,7.26,ZA,<module 'time' (built-in)>
-Lata,40.1629,-8.3327,28.05,52,0,4.62,PT,<module 'time' (built-in)>
-Russell,32.3502,-85.1999,31.09,74,0,0.0,US,<module 'time' (built-in)>
-Marawi,7.9986,124.2928,20.7,98,100,0.66,PH,<module 'time' (built-in)>
-Auki,-8.7676,160.7034,24.73,88,74,2.16,SB,<module 'time' (built-in)>
-Lorengau,-2.0226,147.2712,26.98,77,100,1.84,PG,<module 'time' (built-in)>
-Lumsden,50.6501,-104.8678,12.78,59,82,1.79,CA,<module 'time' (built-in)>
-Kumul,42.8,93.45,32.97,16,8,3.36,CN,<module 'time' (built-in)>
-Ternate,0.8,127.4,26.55,81,98,0.78,ID,<module 'time' (built-in)>
-Saint Paul Harbor,57.79,-152.4072,8.73,81,20,3.09,US,<module 'time' (built-in)>
-Mareeba,-17.0,145.4333,20.4,95,64,1.04,AU,<module 'time' (built-in)>
-Las Palmas,28.4204,-14.0131,24.44,73,20,7.2,ES,<module 'time' (built-in)>
-Matagami,49.7502,-77.6328,20.06,68,20,6.69,CA,<module 'time' (built-in)>
-Bandarbeyla,9.4942,50.8122,25.33,80,96,13.79,SO,<module 'time' (built-in)>
-Kaeo,-35.1,173.7833,14.62,96,100,4.64,NZ,<module 'time' (built-in)>
-Am Timan,11.0297,20.2827,29.27,69,100,1.6,TD,<module 'time' (built-in)>
-Wamba,8.9333,8.6,28.24,66,79,1.86,NG,<module 'time' (built-in)>
-Kolāras,25.2333,77.6,28.57,73,92,1.96,IN,<module 'time' (built-in)>
-Kencong,-8.2833,113.3667,23.3,91,76,0.32,ID,<module 'time' (built-in)>
-Carballo,43.213,-8.691,30.68,74,50,5.22,ES,<module 'time' (built-in)>
-São Caitano,-8.3258,-36.1428,23.65,72,80,5.14,BR,<module 'time' (built-in)>
-Kaitangata,-46.2817,169.8464,7.54,84,89,2.76,NZ,<module 'time' (built-in)>
-Longyearbyen,78.2186,15.6401,9.91,76,75,4.12,SJ,<module 'time' (built-in)>
-Puerto Madero,14.7208,-92.4215,26.51,80,76,0.61,MX,<module 'time' (built-in)>
-San Jose,37.3394,-121.895,18.86,80,75,2.57,US,<module 'time' (built-in)>
-Liuzhou,24.3126,109.3892,26.13,89,99,1.9,CN,<module 'time' (built-in)>
-Laguna,38.421,-121.4238,19.6,80,0,4.12,US,<module 'time' (built-in)>
-Siilinjärvi,63.0833,27.6667,19.01,82,40,5.66,FI,<module 'time' (built-in)>
-Wichita Falls,33.9137,-98.4934,31.81,54,0,6.69,US,<module 'time' (built-in)>
-Dumas,35.8656,-101.9732,28.12,47,0,5.66,US,<module 'time' (built-in)>
-San Patricio,28.017,-97.5169,31.06,52,75,3.11,US,<module 'time' (built-in)>
-Flinders,-34.5833,150.8552,12.88,69,23,3.58,AU,<module 'time' (built-in)>
-Skibbereen,51.55,-9.2667,18.95,57,51,3.77,IE,<module 'time' (built-in)>
-Alenquer,-1.9417,-54.7383,33.21,44,96,2.71,BR,<module 'time' (built-in)>
-Talnakh,69.4865,88.3972,15.67,95,100,0.5,RU,<module 'time' (built-in)>
-East London,-33.0153,27.9116,17.52,72,0,5.66,ZA,<module 'time' (built-in)>
-Beringovskiy,63.05,179.3167,11.03,80,100,3.62,RU,<module 'time' (built-in)>
-Thaton,16.9206,97.3714,25.0,95,100,2.09,MM,<module 'time' (built-in)>
-Sussex,41.1834,-74.6663,30.6,73,0,2.06,US,<module 'time' (built-in)>
-Bekhtery,46.251,32.2927,29.16,44,28,2.62,UA,<module 'time' (built-in)>
-Chala,-7.5833,31.2667,21.87,32,29,2.41,TZ,<module 'time' (built-in)>
-Cherskiy,68.75,161.3,8.87,69,36,2.83,RU,<module 'time' (built-in)>
-Siyabuswa,-25.1132,29.0445,25.76,18,56,2.51,ZA,<module 'time' (built-in)>
-Wahiawā,21.5028,-158.0236,22.43,87,78,1.29,US,<module 'time' (built-in)>
-Zyukayka,58.2025,54.7003,23.04,61,65,2.14,RU,<module 'time' (built-in)>
-Umm Kaddadah,13.6017,26.6876,30.32,45,99,5.89,SD,<module 'time' (built-in)>
-Acajutla,13.5928,-89.8275,28.5,66,94,1.21,SV,<module 'time' (built-in)>
-Linqiong,30.4159,103.4609,28.9,89,8,1.5,CN,<module 'time' (built-in)>
-Atambua,-9.1061,124.8925,22.29,87,100,1.76,ID,<module 'time' (built-in)>
-Buala,-8.145,159.5921,26.21,83,100,2.0,SB,<module 'time' (built-in)>
-Touros,-5.1989,-35.4608,28.46,64,82,7.75,BR,<module 'time' (built-in)>
-Northam,51.0333,-4.2167,20.37,45,13,5.34,GB,<module 'time' (built-in)>
-Lüderitz,-26.6481,15.1594,19.95,47,100,5.15,NA,<module 'time' (built-in)>
-Sørland,67.667,12.6934,12.92,83,93,7.38,NO,<module 'time' (built-in)>
-Rawson,-43.3002,-65.1023,7.37,75,98,6.19,AR,<module 'time' (built-in)>
-Takoradze,4.8845,-1.7554,25.24,69,7,4.14,GH,<module 'time' (built-in)>
-Rapid Valley,44.0625,-103.1463,20.96,61,75,5.36,US,<module 'time' (built-in)>
-Livingston,55.9029,-3.5226,17.89,59,40,8.23,GB,<module 'time' (built-in)>
-Lázaro Cárdenas,17.9583,-102.2,27.32,75,100,1.52,MX,<module 'time' (built-in)>
-Charter Township of Clinton,42.587,-82.9199,30.01,83,20,1.54,US,<module 'time' (built-in)>
-Fort Nelson,58.8053,-122.7002,15.77,82,75,1.54,CA,<module 'time' (built-in)>
-Yangi Marg`ilon,40.4272,71.7189,29.8,20,2,3.79,UZ,<module 'time' (built-in)>
-Port Hedland,-20.3167,118.5667,15.03,77,0,2.06,AU,<module 'time' (built-in)>
-Brainerd,46.358,-94.2008,19.58,88,20,0.0,US,<module 'time' (built-in)>
-Sijunjung,-0.6876,100.9537,22.34,97,95,0.84,ID,<module 'time' (built-in)>
-Luau,-10.7073,22.2247,30.69,14,34,3.1,AO,<module 'time' (built-in)>
-Yuxia,34.0615,108.6291,32.34,59,3,4.13,CN,<module 'time' (built-in)>
-Ambon City,-3.6954,128.1814,25.13,15,40,1.03,ID,<module 'time' (built-in)>
-Dakar,14.6937,-17.4441,30.49,74,40,4.12,SN,<module 'time' (built-in)>
-Nome,64.5011,-165.4064,6.04,76,100,4.12,US,<module 'time' (built-in)>
-Nyurba,63.2842,118.3319,9.78,89,100,2.11,RU,<module 'time' (built-in)>
-Cherat Cantonement,33.8233,71.8915,26.96,52,83,1.45,PK,<module 'time' (built-in)>
-Yamada,39.4667,141.95,19.15,90,92,3.4,JP,<module 'time' (built-in)>
-Bandar-e Lengeh,26.5579,54.8807,36.06,59,0,4.12,IR,<module 'time' (built-in)>
-Saint-Alexandre,44.2278,4.6214,36.1,32,0,8.07,FR,<module 'time' (built-in)>
-Dayong,25.0209,118.2898,27.75,80,100,0.75,CN,<module 'time' (built-in)>
-Aripuanã,-9.1667,-60.6333,33.49,40,98,1.15,BR,<module 'time' (built-in)>
-Hamilton,39.1834,-84.5333,25.33,97,100,2.06,US,<module 'time' (built-in)>
-Caravelas,-17.7125,-39.2481,25.69,63,84,2.52,BR,<module 'time' (built-in)>
-Merauke,-8.4667,140.3333,24.52,92,100,4.49,ID,<module 'time' (built-in)>
-Muisne,0.6,-80.0333,24.9,79,100,3.62,EC,<module 'time' (built-in)>
-Ostrovnoy,68.0531,39.5131,22.08,62,99,8.83,RU,<module 'time' (built-in)>
-Padang,-0.9492,100.3543,25.82,86,93,1.5,ID,<module 'time' (built-in)>
-Victor Harbor,-35.5667,138.6167,10.0,91,13,3.02,AU,<module 'time' (built-in)>
-São José da Coroa Grande,-8.8978,-35.1478,26.58,62,9,4.25,BR,<module 'time' (built-in)>
-Yerbogachën,61.2767,108.0108,8.66,96,100,4.01,RU,<module 'time' (built-in)>
-Ugoofaaru,5.6667,73.0,27.19,85,100,8.22,MV,<module 'time' (built-in)>
-Krasnyy Luch,48.1395,38.9371,29.17,26,38,4.22,UA,<module 'time' (built-in)>
-Sitka,57.0531,-135.33,13.94,94,100,3.09,US,<module 'time' (built-in)>
-Muravlenko,63.7898,74.523,18.89,63,72,4.08,RU,<module 'time' (built-in)>
-Avaré,-23.0986,-48.9258,17.73,66,100,4.31,BR,<module 'time' (built-in)>
-Zhovti Vody,48.3473,33.5003,30.24,38,46,5.65,UA,<module 'time' (built-in)>
-Zhigansk,66.7697,123.3711,10.17,99,100,2.9,RU,<module 'time' (built-in)>
-Paraíso,9.8383,-83.8656,23.27,91,94,1.46,CR,<module 'time' (built-in)>
-Vermillion,42.7794,-96.9292,27.62,71,100,1.44,US,<module 'time' (built-in)>
-Finschhafen,-6.6024,147.8681,26.41,77,100,2.58,PG,<module 'time' (built-in)>
-São João da Barra,-21.6403,-41.0511,24.05,65,100,4.92,BR,<module 'time' (built-in)>
-Ulaangom,49.9811,92.0667,15.81,43,1,0.4,MN,<module 'time' (built-in)>
-Fortuna,40.5982,-124.1573,16.63,91,100,1.54,US,<module 'time' (built-in)>
-Aykhal,66.0,111.5,8.03,97,100,8.63,RU,<module 'time' (built-in)>
-Half Moon Bay,37.4636,-122.4286,18.89,87,100,2.57,US,<module 'time' (built-in)>
-Clyde River,70.4692,-68.5914,5.13,81,100,6.69,CA,<module 'time' (built-in)>
-Pevek,69.7008,170.3133,2.18,99,100,3.81,RU,<module 'time' (built-in)>
-Mandera,3.9366,41.867,31.98,28,28,8.55,KE,<module 'time' (built-in)>
-Kamennomostskoye,43.7372,43.0514,19.23,80,100,2.78,RU,<module 'time' (built-in)>
-Boyany,48.2708,26.1262,31.86,39,23,2.9,UA,<module 'time' (built-in)>
-Svatove,49.4103,38.1503,32.15,24,10,4.53,UA,<module 'time' (built-in)>
-Ružomberok,49.0748,19.3075,16.66,89,93,3.43,SK,<module 'time' (built-in)>
-Harrisonburg,38.4496,-78.8689,26.13,81,100,0.0,US,<module 'time' (built-in)>
-Mashhad,36.297,59.6062,34.08,26,0,3.09,IR,<module 'time' (built-in)>
-Mhango,-3.2833,32.85,28.65,25,99,2.33,TZ,<module 'time' (built-in)>
-Aurora,39.7294,-104.8319,25.33,63,75,2.57,US,<module 'time' (built-in)>
-Cururupu,-1.8283,-44.8683,29.57,63,50,3.89,BR,<module 'time' (built-in)>
-Mount Isa,-20.7333,139.5,19.87,22,100,4.63,AU,<module 'time' (built-in)>
-Anadyr,64.75,177.4833,12.28,76,0,2.0,RU,<module 'time' (built-in)>
-Hinton,53.4001,-117.5857,13.78,56,8,2.78,CA,<module 'time' (built-in)>
-Saint Anthony,45.0205,-93.218,22.96,94,100,5.66,US,<module 'time' (built-in)>
-Lompoc,34.6391,-120.4579,16.4,97,100,5.14,US,<module 'time' (built-in)>
-Irbeyskoye,55.6428,95.4522,11.73,70,91,1.92,RU,<module 'time' (built-in)>
-Oodweyne,9.4092,45.064,28.24,35,100,8.08,SO,<module 'time' (built-in)>
-Lac-Mégantic,45.5834,-70.8823,24.75,54,39,2.99,CA,<module 'time' (built-in)>
-Beyneu,45.3167,55.2,32.67,14,100,4.68,KZ,<module 'time' (built-in)>
-Arman',59.7,150.1667,11.66,95,53,1.04,RU,<module 'time' (built-in)>
-Kununurra,-15.7667,128.7333,19.99,73,4,0.0,AU,<module 'time' (built-in)>
-Guatapé,6.2327,-75.1586,16.11,85,98,0.88,CO,<module 'time' (built-in)>
-Shirokiy,49.758,129.523,18.71,82,100,1.72,RU,<module 'time' (built-in)>
-Kouqian,43.6391,126.4578,21.97,89,83,1.66,CN,<module 'time' (built-in)>
-Ibrā’,22.6906,58.5334,36.62,28,37,4.49,OM,<module 'time' (built-in)>
-Sassandra,4.95,-6.0833,26.3,61,36,3.58,CI,<module 'time' (built-in)>
-Geraldton,-28.7667,114.6,10.23,87,1,5.14,AU,<module 'time' (built-in)>
-Reinosa,42.9996,-4.138,20.26,44,85,3.75,ES,<module 'time' (built-in)>
-Cartagena,10.3997,-75.5144,27.79,83,75,5.66,CO,<module 'time' (built-in)>
-Boende,-0.2167,20.8667,28.76,58,96,1.1,CD,<module 'time' (built-in)>
-Planeta Rica,8.4147,-75.5883,24.91,91,99,2.61,CO,<module 'time' (built-in)>
-Akdepe,42.0551,59.3788,32.05,30,96,8.78,TM,<module 'time' (built-in)>
-Hondomachi-hondo,32.45,130.2,28.0,86,11,1.83,JP,<module 'time' (built-in)>
-Orán,-23.1322,-64.326,23.01,39,77,2.13,AR,<module 'time' (built-in)>
-Baie-Comeau,49.2168,-68.1489,19.82,60,0,3.09,CA,<module 'time' (built-in)>
-Catalina,32.5056,-110.9211,30.07,52,39,0.45,US,<module 'time' (built-in)>
-Koungou,-12.7336,45.2042,24.84,69,40,3.6,YT,<module 'time' (built-in)>
-Mbulu,-3.85,35.5333,21.01,40,66,4.78,TZ,<module 'time' (built-in)>
-Valparaíso,-33.0393,-71.6273,12.13,93,100,3.09,CL,<module 'time' (built-in)>
-Guangzhou,23.1167,113.25,28.26,68,92,2.46,CN,<module 'time' (built-in)>
-Ust-Kuyga,70.0167,135.6,7.94,72,100,3.67,RU,<module 'time' (built-in)>
-Namatanai,-3.6667,152.4333,25.8,83,85,2.38,PG,<module 'time' (built-in)>
-Souillac,-20.5167,57.5167,22.21,78,75,5.14,MU,<module 'time' (built-in)>
-Kantunilkín,21.0917,-87.45,31.75,52,58,2.26,MX,<module 'time' (built-in)>
-Ilulissat,69.2167,-51.1,8.01,93,75,2.06,GL,<module 'time' (built-in)>
-Barentu,15.1139,37.5928,22.23,79,100,2.29,ER,<module 'time' (built-in)>
-Hofn,64.2539,-15.2082,12.07,88,100,2.3,IS,<module 'time' (built-in)>
-Yumen,40.2833,97.2,27.08,19,98,4.31,CN,<module 'time' (built-in)>
-Young,-32.6833,-57.6333,12.93,64,100,4.57,UY,<module 'time' (built-in)>
-Batemans Bay,-35.7167,150.1833,7.24,81,10,2.2,AU,<module 'time' (built-in)>
-Umluj,25.0213,37.2685,31.89,67,26,4.69,SA,<module 'time' (built-in)>
-Dravograd,46.5881,15.0192,27.78,83,52,1.62,SI,<module 'time' (built-in)>
-Cubarral,3.7935,-73.8406,21.25,96,100,1.25,CO,<module 'time' (built-in)>
-Plettenberg Bay,-34.0527,23.3716,14.51,84,92,5.13,ZA,<module 'time' (built-in)>
-Kaohsiung City,22.6163,120.3133,30.02,80,75,2.06,TW,<module 'time' (built-in)>
-Conakry,9.538,-13.6773,27.04,89,75,4.12,GN,<module 'time' (built-in)>
-Bramming,55.4695,8.7001,19.18,52,75,7.2,DK,<module 'time' (built-in)>
-Kidal,18.4411,1.4078,38.94,22,84,1.89,ML,<module 'time' (built-in)>
-Bambanglipuro,-7.95,110.2833,24.4,88,100,4.02,ID,<module 'time' (built-in)>
-Nong’an,44.382,125.1685,22.66,91,100,1.84,CN,<module 'time' (built-in)>
-Albanel,48.8832,-72.4487,22.08,64,71,3.6,CA,<module 'time' (built-in)>
-Killybegs,54.6333,-8.45,17.84,73,100,7.2,IE,<module 'time' (built-in)>
-Puerto Nariño,-3.7703,-70.3831,28.9,69,82,1.01,CO,<module 'time' (built-in)>
-Cockburn Town,21.4612,-71.1419,28.98,70,40,5.14,TC,<module 'time' (built-in)>
-Berlevåg,70.8578,29.0864,16.0,71,100,5.66,NO,<module 'time' (built-in)>
-Porto Walter,-8.2686,-72.7439,29.64,56,86,1.23,BR,<module 'time' (built-in)>
-Dudinka,69.4058,86.1778,15.9,94,38,3.52,RU,<module 'time' (built-in)>
-Coquimbo,-29.9533,-71.3436,11.85,87,40,0.0,CL,<module 'time' (built-in)>
-Chino Valley,34.7575,-112.4538,26.49,60,33,0.45,US,<module 'time' (built-in)>
-Ponta Delgada,37.7333,-25.6667,24.4,83,40,3.6,PT,<module 'time' (built-in)>
-Bartlesville,36.7473,-95.9808,30.01,65,20,3.6,US,<module 'time' (built-in)>
-‘Ewa Beach,21.3156,-158.0072,24.22,81,0,2.57,US,<module 'time' (built-in)>
-Petropavlovsk-Kamchatskiy,53.0452,158.6483,12.33,88,100,2.0,RU,<module 'time' (built-in)>
-Umm Hājar,13.2954,19.6966,34.34,42,76,4.72,TD,<module 'time' (built-in)>
-Westport,41.1415,-73.3579,31.92,64,42,0.89,US,<module 'time' (built-in)>
-Hambantota,6.1241,81.1185,27.19,83,20,3.09,LK,<module 'time' (built-in)>
-Mahon,39.8885,4.2658,33.31,43,0,7.2,ES,<module 'time' (built-in)>
-Bytów,54.1706,17.4919,19.39,40,3,6.33,PL,<module 'time' (built-in)>
-Ulverstone,-41.15,146.1667,7.88,62,33,3.13,AU,<module 'time' (built-in)>
-Tain,57.809,-4.0599,17.46,75,100,4.02,GB,<module 'time' (built-in)>
-Chālūs,36.655,51.4204,29.7,74,40,2.06,IR,<module 'time' (built-in)>
-Malbork,54.0359,19.0266,22.16,30,38,6.53,PL,<module 'time' (built-in)>
-Bani Walid,31.7566,13.9942,36.21,14,0,4.91,LY,<module 'time' (built-in)>
-Marathon,44.9,-89.7668,26.58,87,75,5.14,US,<module 'time' (built-in)>
-Moindou,-21.6924,165.677,22.64,87,39,1.72,NC,<module 'time' (built-in)>
-Gushi,34.6425,109.5843,32.13,53,14,0.57,CN,<module 'time' (built-in)>
-Monticello,45.3055,-93.7941,22.75,93,100,2.06,US,<module 'time' (built-in)>
-Monrovia,6.3005,-10.7969,26.87,73,76,5.41,LR,<module 'time' (built-in)>
-Ust-Tsilma,65.441,52.1498,28.84,42,17,2.39,RU,<module 'time' (built-in)>
-Partyzany,46.3314,34.7503,29.34,41,5,6.27,UA,<module 'time' (built-in)>
-Hue,16.4667,107.6,27.06,83,20,1.54,VN,<module 'time' (built-in)>
-Reyes,-14.3167,-67.3833,19.98,94,100,0.0,BO,<module 'time' (built-in)>
-Carutapera,-1.195,-46.02,29.93,61,34,4.76,BR,<module 'time' (built-in)>
-Peniche,39.3558,-9.3811,24.14,74,46,4.93,PT,<module 'time' (built-in)>
-Solnechnyy,50.7214,136.6319,17.88,98,42,0.41,RU,<module 'time' (built-in)>
-São Félix do Xingu,-6.6447,-51.995,28.78,58,78,1.31,BR,<module 'time' (built-in)>
-Corralillo,22.9819,-80.5856,29.74,66,39,7.9,CU,<module 'time' (built-in)>
-Dali,25.7,100.1833,17.88,86,32,0.71,CN,<module 'time' (built-in)>
-Chicama,-7.8447,-79.1469,14.3,71,97,2.14,PE,<module 'time' (built-in)>
-Vostok,46.4856,135.8833,17.03,97,32,2.18,RU,<module 'time' (built-in)>
-Portland,45.5234,-122.6762,18.29,81,0,1.34,US,<module 'time' (built-in)>
-Cardston,49.2,-113.3019,12.16,71,0,2.06,CA,<module 'time' (built-in)>
-Nuevitas,21.5453,-77.2644,29.64,66,97,7.12,CU,<module 'time' (built-in)>
-Pangnirtung,66.1451,-65.7125,6.0,93,75,2.06,CA,<module 'time' (built-in)>
-Zhangye,38.9342,100.4517,29.06,30,97,2.25,CN,<module 'time' (built-in)>
-Santo Niño,6.435,124.6975,23.82,95,100,0.46,PH,<module 'time' (built-in)>
-Saint-Raphaël,19.4333,-72.2,27.48,63,100,2.25,HT,<module 'time' (built-in)>
-Lida,53.8833,25.2997,17.79,89,100,7.18,BY,<module 'time' (built-in)>
-Honiara,-9.4333,159.95,24.85,87,32,2.1,SB,<module 'time' (built-in)>
-Thaba Nchu,-29.2093,26.839,15.95,27,100,2.96,ZA,<module 'time' (built-in)>
-Salinópolis,-0.6136,-47.3561,29.0,64,24,6.59,BR,<module 'time' (built-in)>
-Fort Saint James,54.4333,-124.25,13.91,66,96,1.24,CA,<module 'time' (built-in)>
-Bara,10.3744,10.7288,31.0,53,89,1.84,NG,<module 'time' (built-in)>
-Nioro,13.35,-15.75,30.24,66,100,2.47,GM,<module 'time' (built-in)>
-Manta,-0.95,-80.7333,22.88,88,100,3.6,EC,<module 'time' (built-in)>
-Río Gallegos,-51.6226,-69.2181,2.03,100,100,0.51,AR,<module 'time' (built-in)>
-Kavaratti,10.5669,72.642,26.67,86,35,9.95,IN,<module 'time' (built-in)>
-Coffs Harbour,-30.3,153.1333,13.98,54,0,4.12,AU,<module 'time' (built-in)>
-Broken Hill,-31.95,141.4333,7.34,71,27,4.07,AU,<module 'time' (built-in)>
-Samarai,-10.6167,150.6667,26.46,87,96,4.1,PG,<module 'time' (built-in)>
-Kudahuvadhoo,2.6708,72.8944,28.07,78,86,6.21,MV,<module 'time' (built-in)>
-Buraidah,26.326,43.975,45.25,9,31,3.68,SA,<module 'time' (built-in)>
-Kawalu,-7.3817,108.2082,22.42,91,74,0.61,ID,<module 'time' (built-in)>
-Deputatsky,69.3,139.9,6.84,98,100,1.56,RU,<module 'time' (built-in)>
-Shwebo,22.5667,95.7,28.32,70,52,2.54,MM,<module 'time' (built-in)>
-Porto-Novo,6.4965,2.6036,26.9,59,31,5.23,BJ,<module 'time' (built-in)>
-Acapulco de Juárez,16.8634,-99.8901,26.9,78,100,2.57,MX,<module 'time' (built-in)>
-Manchester,53.4809,-2.2374,21.66,56,75,4.12,GB,<module 'time' (built-in)>
-Xai-Xai,-25.0519,33.6442,23.36,70,39,4.02,MZ,<module 'time' (built-in)>
-Zubtsov,56.1753,34.5894,27.93,50,1,3.82,RU,<module 'time' (built-in)>
-Arrondissement de Saint-Denis,48.9167,2.3333,26.1,28,0,6.17,FR,<module 'time' (built-in)>
-Cap Malheureux,-19.9842,57.6142,20.26,79,16,2.24,MU,<module 'time' (built-in)>
-Cirò Marina,39.3732,17.126,34.93,49,0,3.41,IT,<module 'time' (built-in)>
-Norsup,-16.0667,167.3833,25.92,82,79,4.48,VU,<module 'time' (built-in)>
-Tilichiki,60.4667,166.1,10.8,93,96,1.93,RU,<module 'time' (built-in)>
-Vilhena,-12.7406,-60.1458,26.12,65,0,2.06,BR,<module 'time' (built-in)>
-Pisco,-13.7,-76.2167,16.12,77,100,1.54,PE,<module 'time' (built-in)>
-Villa Bruzual,9.3328,-69.1208,24.67,90,91,1.24,VE,<module 'time' (built-in)>
-Yibin,28.7667,104.6238,27.98,81,83,1.31,CN,<module 'time' (built-in)>
-Abay,49.6311,72.8539,21.21,32,18,5.17,KZ,<module 'time' (built-in)>
-Lithgow,-33.4833,150.15,3.15,89,29,4.13,AU,<module 'time' (built-in)>
-Juruti,-2.1522,-56.0922,32.72,45,82,2.75,BR,<module 'time' (built-in)>
-Kyshtovka,56.555,76.6271,17.03,89,79,3.24,RU,<module 'time' (built-in)>
-Bathsheba,13.2167,-59.5167,30.34,88,40,7.72,BB,<module 'time' (built-in)>
-Gornyak,50.9942,81.4661,19.52,38,12,4.49,RU,<module 'time' (built-in)>
-Sa Kaeo,13.75,102.3333,24.19,91,100,2.34,TH,<module 'time' (built-in)>
-Kavieng,-2.5744,150.7967,26.89,78,22,3.22,PG,<module 'time' (built-in)>
-Ussel,45.55,2.3167,28.28,31,1,3.09,FR,<module 'time' (built-in)>
-Dvinskoy Bereznik,62.8551,42.7072,27.48,46,0,2.68,RU,<module 'time' (built-in)>
-Lodja,-3.4833,23.4333,36.03,19,21,0.34,CD,<module 'time' (built-in)>
-Noumea,-22.2763,166.4572,24.44,99,49,2.15,NC,<module 'time' (built-in)>
-Vadsø,70.0744,29.7487,12.09,71,100,5.66,NO,<module 'time' (built-in)>
-Coahuayana Viejo,18.7333,-103.6833,28.33,72,93,1.26,MX,<module 'time' (built-in)>
-Mpika,-11.8343,31.4529,21.7,36,6,3.55,ZM,<module 'time' (built-in)>
-Shenjiamen,29.9576,122.298,28.04,88,2,6.43,CN,<module 'time' (built-in)>
-El Dorado,38.7666,-120.5177,23.69,79,9,1.28,US,<module 'time' (built-in)>
-Marrakesh,31.6315,-8.0083,41.04,16,20,2.57,MA,<module 'time' (built-in)>
-Qaqortoq,60.7167,-46.0333,7.88,93,95,3.89,GL,<module 'time' (built-in)>
-Laas,46.6166,10.7002,24.65,76,55,1.13,IT,<module 'time' (built-in)>
-Luena,-11.7833,19.9167,28.79,15,1,3.63,AO,<module 'time' (built-in)>
-La Ronge,55.1001,-105.2842,14.14,77,20,3.6,CA,<module 'time' (built-in)>
-Tomatlán,19.9333,-105.25,26.42,85,90,0.7,MX,<module 'time' (built-in)>
-Rio Grande,-32.035,-52.0986,16.06,72,68,3.82,BR,<module 'time' (built-in)>
-Puerto Limón,10.0,-83.0333,24.47,100,75,2.06,CR,<module 'time' (built-in)>
-Moose Factory,51.2585,-80.6094,23.0,73,75,7.72,CA,<module 'time' (built-in)>
-Viranşehir,37.2353,39.7631,41.42,13,0,7.69,TR,<module 'time' (built-in)>
-Erenhot,43.6475,111.9767,25.93,57,35,4.79,CN,<module 'time' (built-in)>
-Ilula,-7.6766,36.0366,18.65,51,25,3.66,TZ,<module 'time' (built-in)>
-Sabang,5.8933,95.3214,28.21,74,92,7.54,ID,<module 'time' (built-in)>
-Huntley,42.1681,-88.4281,29.43,79,26,2.24,US,<module 'time' (built-in)>
-Mundo Nuevo (Ojo de Agua),18.7,-95.5,28.09,69,22,1.25,MX,<module 'time' (built-in)>
-Bambous Virieux,-20.3428,57.7575,22.14,78,75,5.14,MU,<module 'time' (built-in)>
-Teya,60.3778,92.6267,12.29,84,100,1.11,RU,<module 'time' (built-in)>
-Batalha,-9.6778,-37.1247,23.8,80,100,1.77,BR,<module 'time' (built-in)>
-Vung Tau,10.346,107.0843,26.49,83,100,6.37,VN,<module 'time' (built-in)>
-Kirensk,57.7853,108.1119,10.66,97,100,2.4,RU,<module 'time' (built-in)>
-Tari,12.4086,4.4914,33.38,44,95,2.03,NG,<module 'time' (built-in)>
-Palmer,42.1584,-72.3287,31.88,64,20,3.09,US,<module 'time' (built-in)>
-Sistranda,63.7256,8.834,10.98,81,100,11.59,NO,<module 'time' (built-in)>
-La Primavera,5.4906,-70.4092,23.27,95,100,1.63,CO,<module 'time' (built-in)>
-Wencheng,33.0559,113.7978,28.08,76,6,2.95,CN,<module 'time' (built-in)>
-Le Port,-20.9373,55.2919,22.0,66,35,2.16,RE,<module 'time' (built-in)>
-Vanimo,-2.6741,141.3028,25.1,85,98,0.99,PG,<module 'time' (built-in)>
-Nelson Bay,-32.7167,152.15,13.89,74,1,3.58,AU,<module 'time' (built-in)>
-Gumdag,39.2061,54.5906,35.2,21,9,10.45,TM,<module 'time' (built-in)>
-Rock Sound,24.9,-76.2,28.26,74,7,9.22,BS,<module 'time' (built-in)>
-Buta,2.7858,24.73,25.89,81,100,0.84,CD,<module 'time' (built-in)>
-La Puebla de Cazalla,37.2216,-5.3115,35.56,19,0,4.86,ES,<module 'time' (built-in)>
-Bukama,-9.2,25.85,33.19,17,5,2.47,CD,<module 'time' (built-in)>
-Sambava,-14.2667,50.1667,21.71,78,42,4.78,MG,<module 'time' (built-in)>
-Sur,22.5667,59.5289,29.99,72,53,0.53,OM,<module 'time' (built-in)>
-Hualmay,-11.0964,-77.6139,17.44,78,100,3.75,PE,<module 'time' (built-in)>
-Chebenki,51.9337,55.7077,29.88,32,26,4.27,RU,<module 'time' (built-in)>
-Tuatapere,-46.1333,167.6833,6.96,94,67,3.87,NZ,<module 'time' (built-in)>
-Kamenka,51.3223,42.7678,29.29,26,9,4.47,RU,<module 'time' (built-in)>
-Arlit,18.7369,7.3853,40.41,18,1,2.62,NE,<module 'time' (built-in)>
-Mahon,39.8885,4.2658,33.31,43,0,7.2,ES,<module 'time' (built-in)>
-Martapura,-3.4167,114.85,24.05,88,20,1.54,ID,<module 'time' (built-in)>
-Amurzet,47.6967,131.0981,20.34,73,78,2.53,RU,<module 'time' (built-in)>
-Narsaq,60.9167,-46.05,9.12,96,98,3.02,GL,<module 'time' (built-in)>
-Faya,18.3851,42.4509,22.06,55,97,1.1,SA,<module 'time' (built-in)>
-Desbiens,48.4178,-71.9495,22.36,55,68,4.21,CA,<module 'time' (built-in)>
-Limbang,4.75,115.0,27.06,92,100,1.05,MY,<module 'time' (built-in)>
-Klyuchi,52.2667,79.1667,21.21,40,0,2.98,RU,<module 'time' (built-in)>
-Ajdabiya,30.7554,20.2263,29.92,48,0,7.5,LY,<module 'time' (built-in)>
-Srednekolymsk,67.45,153.6833,11.92,87,100,0.28,RU,<module 'time' (built-in)>
-Rocha,-34.4833,-54.3333,12.75,54,100,2.04,UY,<module 'time' (built-in)>
-Gairo,39.8497,9.5047,27.56,36,41,2.69,IT,<module 'time' (built-in)>
-Lima,-12.0432,-77.0282,14.14,88,100,2.06,PE,<module 'time' (built-in)>
-Nortelândia,-14.4547,-56.8028,36.12,17,100,1.7,BR,<module 'time' (built-in)>
-Den Helder,52.9599,4.7593,21.65,56,40,4.47,NL,<module 'time' (built-in)>
-Dafeng,23.4517,108.5881,25.61,88,100,0.77,CN,<module 'time' (built-in)>
-Xining,36.6167,101.7667,20.84,72,95,0.41,CN,<module 'time' (built-in)>
-Bījār,35.8668,47.6051,26.87,30,77,5.32,IR,<module 'time' (built-in)>
-Bellevue,47.6104,-122.2007,18.36,80,0,0.45,US,<module 'time' (built-in)>
-El Retorno,2.3302,-72.6276,26.92,72,99,1.87,CO,<module 'time' (built-in)>
-Vestmannaeyjar,63.4427,-20.2734,12.55,94,100,3.6,IS,<module 'time' (built-in)>
-Worthington,40.0931,-83.018,25.97,90,100,2.06,US,<module 'time' (built-in)>
-Paita,-5.0892,-81.1144,18.02,81,98,6.16,PE,<module 'time' (built-in)>
-Vélingara,13.15,-14.1167,29.84,70,89,2.41,SN,<module 'time' (built-in)>
-Ca Mau,9.1769,105.15,24.21,93,100,1.93,VN,<module 'time' (built-in)>
-Maţāy,28.419,30.7792,38.03,14,1,6.2,EG,<module 'time' (built-in)>
-Wajid,3.8093,43.2471,30.19,31,17,8.62,SO,<module 'time' (built-in)>
-Xi'an,34.2583,108.9286,32.45,49,6,1.92,CN,<module 'time' (built-in)>
-Phuket,8.0,98.25,28.12,78,20,5.14,TH,<module 'time' (built-in)>
+Vaini,-21.2,-175.2,24.09,94,20,3.09,TO,1659977545
+Cedar City,37.6775,-113.0619,27.44,35,0,2.06,US,1659977545
+Carnarvon,-24.8667,113.6333,16.04,94,100,4.63,AU,1659977545
+Umluj,25.0213,37.2685,32.16,61,20,4.81,SA,1659977546
+Ushuaia,-54.8,-68.3,4.81,52,20,1.54,AR,1659977546
+Hermanus,-34.4187,19.2345,14.89,86,51,1.43,ZA,1659977546
+Chokurdakh,70.6333,147.9167,13.77,45,99,2.88,RU,1659977546
+Constitución,-35.3333,-72.4167,12.93,64,0,3.57,CL,1659977547
+Makakilo City,21.3469,-158.0858,25.11,71,0,4.12,US,1659977547
+Barkhan,29.8977,69.5256,29.22,61,96,2.02,PK,1659977547
+Bredasdorp,-34.5322,20.0403,13.36,93,49,0.24,ZA,1659977547
+Port Alfred,-33.5906,26.891,15.66,97,69,0.45,ZA,1659977548
+Coyhaique,-45.5752,-72.0662,5.34,70,75,3.09,CL,1659976964
+Sibu,2.3,111.8167,23.17,94,40,0.0,MY,1659977450
+Yellowknife,62.456,-114.3525,15.29,82,75,4.63,CA,1659976953
+Rikitea,-23.1203,-134.9692,22.48,80,100,12.77,PF,1659977548
+Beringovskiy,63.05,179.3167,7.23,63,88,1.43,RU,1659977549
+Port Augusta,-32.5,137.7667,6.58,65,0,1.41,AU,1659977015
+Simplício Mendes,-7.8539,-41.9103,34.65,23,29,3.99,BR,1659977549
+Barrow,71.2906,-156.7887,3.73,75,32,5.36,US,1659977549
+Talakan,50.3167,130.3667,13.42,94,92,3.96,RU,1659977550
+Verkhnevilyuysk,63.4453,120.3167,10.81,96,98,1.25,RU,1659977550
+Pevek,69.7008,170.3133,0.07,88,21,2.21,RU,1659976958
+Avarua,-21.2078,-159.775,22.03,73,40,3.09,CK,1659976973
+Cidreira,-30.1811,-50.2056,14.9,91,100,5.17,BR,1659977001
+Shelburne,44.0787,-80.2041,24.87,97,100,5.6,CA,1659977551
+La Romana,18.4273,-68.9728,32.2,62,75,7.72,DO,1659977511
+Bonavista,48.6499,-53.1147,16.82,72,97,8.74,CA,1659977551
+Busselton,-33.65,115.3333,8.17,92,88,1.82,AU,1659977551
+Ponta do Sol,32.6667,-17.1,27.62,69,2,2.06,PT,1659977551
+São Filipe,14.8961,-24.4956,26.62,83,95,3.21,CV,1659976978
+Lyubim,58.3625,40.6843,17.37,76,99,1.46,RU,1659977552
+Okha,53.5739,142.9478,12.42,98,100,7.27,RU,1659977552
+Butaritari,3.0707,172.7902,27.03,79,23,5.79,KI,1659977552
+Punta Arenas,-53.15,-70.9167,3.01,86,75,3.09,CL,1659977553
+Waipawa,-41.4122,175.5153,7.35,84,100,6.8,NZ,1659977553
+Mataura,-46.1927,168.8643,1.38,81,2,2.9,NZ,1659977554
+Deputatsky,69.3,139.9,11.85,90,99,1.65,RU,1659976973
+Henties Bay,-22.116,14.2845,14.11,83,11,3.91,NA,1659977554
+Sur,22.5667,59.5289,31.6,58,85,1.58,OM,1659977554
+Jamestown,42.097,-79.2353,24.77,73,100,5.14,US,1659977554
+Moanda,-1.5575,13.2178,30.83,38,100,0.19,GA,1659977555
+Hualmay,-11.0964,-77.6139,18.87,70,58,4.44,PE,1659977556
+Dicabisagan,17.0818,122.4157,25.13,88,100,2.47,PH,1659977556
+Kapaa,22.0752,-159.319,24.18,86,40,6.17,US,1659977556
+Mabaruma,8.2,-59.7833,32.07,54,35,2.81,GY,1659977557
+Vardø,70.3705,31.1107,11.99,71,75,6.17,NO,1659977557
+Necochea,-38.5473,-58.7368,9.22,66,100,1.74,AR,1659977490
+Mokrousovo,55.8103,66.7653,18.04,66,92,1.37,RU,1659977557
+Laguna,38.421,-121.4238,26.12,65,0,3.09,US,1659977557
+Acapulco de Juárez,16.8634,-99.8901,27.13,80,100,2.01,MX,1659977558
+Berezovyy,51.6667,135.7,11.8,86,1,2.74,RU,1659976994
+Kristianstad,56.0313,14.1524,21.08,67,75,1.54,SE,1659977409
+Arraial do Cabo,-22.9661,-42.0278,23.98,78,75,4.63,BR,1659977559
+Novikovo,51.1537,37.8879,26.06,36,49,1.9,RU,1659977559
+Nālūt,30.3333,10.85,34.79,16,0,6.54,LY,1659977559
+Petropavlovsk-Kamchatskiy,53.0452,158.6483,12.33,100,100,2.0,RU,1659977559
+Ancud,-41.8697,-73.8203,9.01,66,23,1.94,CL,1659977560
+Thompson,55.7435,-97.8558,20.09,88,75,1.03,CA,1659977560
+Mian Channu,30.44,72.3543,32.52,56,28,3.32,PK,1659977560
+Noumea,-22.2763,166.4572,19.99,78,100,4.13,NC,1659977487
+Lompoc,34.6391,-120.4579,23.8,88,100,4.12,US,1659977048
+Tasiilaq,65.6145,-37.6368,5.09,95,100,1.91,GL,1659976967
+Lambaréné,-0.7001,10.2406,25.68,67,100,1.88,GA,1659977561
+Alofi,-19.0595,-169.9187,21.94,94,40,2.57,NU,1659976909
+Rawson,-43.3002,-65.1023,7.28,78,99,5.72,AR,1659977561
+Mareeba,-17.0,145.4333,19.16,88,97,1.33,AU,1659977562
+Esperance,-33.8667,121.9,11.71,76,88,4.85,AU,1659977562
+Alta Floresta,-9.8756,-56.0861,38.85,22,29,1.51,BR,1659977562
+Geraldton,-28.7667,114.6,14.23,62,40,6.69,AU,1659977562
+Carballo,43.213,-8.691,31.68,71,0,5.09,ES,1659977464
+Ust-Kuyga,70.0167,135.6,14.94,81,100,1.88,RU,1659977563
+Atuona,-9.8,-139.0333,24.93,74,8,6.21,PF,1659977563
+Ekibastuz,51.6667,75.3667,17.17,77,66,2.58,KZ,1659977563
+Albany,42.6001,-73.9662,33.43,64,59,0.45,US,1659977563
+Faanui,-16.4833,-151.75,24.77,60,81,7.57,PF,1659976979
+Poum,-20.2333,164.0167,22.29,77,53,9.01,NC,1659977565
+Máncora,-4.1078,-81.0475,23.94,71,14,3.67,PE,1659977565
+Jiaozuo,35.2397,113.2331,25.89,94,100,2.47,CN,1659977565
+Snina,48.9886,22.151,22.41,66,100,3.94,SK,1659977566
+Matagami,49.7502,-77.6328,14.06,77,20,2.57,CA,1659977039
+Castro,-24.7911,-50.0119,18.46,74,100,1.06,BR,1659977566
+Myitkyina,25.3833,97.4,25.17,97,42,0.79,MM,1659977566
+Bandarbeyla,9.4942,50.8122,24.95,77,65,13.34,SO,1659976994
+Fort Nelson,58.8053,-122.7002,16.77,48,20,5.66,CA,1659977566
+Okhotsk,59.3833,143.3,13.81,83,100,6.21,RU,1659977567
+Bluff,-46.6,168.3333,1.56,67,2,7.9,NZ,1659977572
+Kaitangata,-46.2817,169.8464,1.73,78,43,3.61,NZ,1659977572
+Port Lincoln,-34.7333,135.8667,11.69,77,0,5.06,AU,1659977572
+Marsh Harbour,26.5412,-77.0636,29.02,71,36,6.19,BS,1659977037
+Portel,-1.9356,-50.8211,34.26,38,8,2.06,BR,1659977572
+Cape Town,-33.9258,18.4232,15.23,76,0,2.57,ZA,1659977383
+Dingle,10.9995,122.6711,23.72,90,91,0.89,PH,1659976977
+Bo Phloi,14.3236,99.5161,22.96,98,100,2.26,TH,1659977573
+Fribourg,46.8024,7.1513,27.5,43,2,5.66,CH,1659977573
+Tsiroanomandidy,-18.7667,46.0333,18.7,34,0,1.84,MG,1659977573
+Clyde River,70.4692,-68.5914,9.13,81,100,7.72,CA,1659977573
+Sioux Lookout,50.1001,-91.917,20.04,52,40,4.12,CA,1659977574
+Talnakh,69.4865,88.3972,18.45,94,49,3.36,RU,1659976981
+Petrovsk-Zabaykal'skiy,51.273,108.843,8.88,58,15,0.81,RU,1659977575
+Kampot,10.6167,104.1833,26.03,87,100,3.68,KH,1659977023
+Preobrazheniye,42.9019,133.9064,21.0,79,79,3.24,RU,1659977575
+Alanya,36.5438,31.9998,27.41,77,25,2.29,TR,1659977575
+Inírida,3.8653,-67.9239,31.42,62,57,0.9,CO,1659977575
+Upernavik,72.7868,-56.1549,6.01,74,99,2.19,GL,1659977576
+Tuktoyaktuk,69.4541,-133.0374,13.0,76,75,7.2,CA,1659977577
+Sassandra,4.95,-6.0833,24.68,73,86,4.28,CI,1659977577
+Saskylakh,71.9167,114.0833,12.14,77,100,3.06,RU,1659977577
+Pacific Grove,36.6177,-121.9166,21.3,80,0,4.92,US,1659977577
+Mahébourg,-20.4081,57.7,21.16,78,40,2.57,MU,1659977577
+Katsuura,35.1333,140.3,27.24,89,98,8.98,JP,1659976999
+Hilo,19.7297,-155.09,25.16,94,100,5.14,US,1659977578
+Lebu,-37.6167,-73.65,10.5,71,17,4.18,CL,1659977578
+Hobart,-42.8794,147.3294,2.81,89,3,4.12,AU,1659977316
+Labuhan,-6.8844,112.2051,25.34,81,63,2.74,ID,1659977578
+Longyearbyen,78.2186,15.6401,9.91,71,40,6.17,SJ,1659977578
+Chapais,49.7834,-74.8492,14.88,37,84,2.23,CA,1659977027
+Zunyi,27.6867,106.9072,22.1,90,33,0.93,CN,1659977579
+Saint Paul Harbor,57.79,-152.4072,13.73,82,100,0.0,US,1659977579
+Muros,42.7762,-9.0603,32.05,74,9,1.16,ES,1659977301
+Turukhansk,65.8167,87.9833,16.83,86,38,2.71,RU,1659977579
+Aklavik,68.2191,-135.0107,14.48,68,85,6.66,CA,1659977580
+Puerto Ayora,-0.7393,-90.3518,23.98,84,87,3.13,EC,1659977581
+Wundanyi,-3.4019,38.364,16.01,65,55,5.05,KE,1659977581
+Lorengau,-2.0226,147.2712,27.44,78,86,4.13,PG,1659977581
+Clarence Town,-32.5833,151.7833,11.59,96,54,1.58,AU,1659977581
+Naze,28.3667,129.4833,27.51,80,45,3.51,JP,1659977582
+Airai,-8.9266,125.4092,14.09,83,25,1.43,TL,1659977582
+Leshukonskoye,64.8989,45.7622,15.05,59,91,2.46,RU,1659977582
+Kabalo,-6.05,26.9167,29.58,24,4,2.17,CD,1659977582
+Chaman,30.9236,66.4512,32.87,11,99,1.85,PK,1659977583
+Cherskiy,68.75,161.3,7.23,57,56,2.8,RU,1659977583
+Corralillo,22.9819,-80.5856,31.02,61,27,8.0,CU,1659977583
+Sabha,27.0377,14.4283,36.28,14,1,3.72,LY,1659977583
+Zaysan,47.4667,84.8667,23.73,30,100,2.58,KZ,1659977583
+Itarema,-2.9248,-39.9167,30.72,50,3,8.22,BR,1659977584
+Kamenka,51.3223,42.7678,25.48,35,51,6.73,RU,1659977584
+Ayan,56.45,138.1667,12.46,99,100,8.94,RU,1659977584
+Abhā,18.2164,42.5053,20.9,88,40,3.6,SA,1659976989
+Sambava,-14.2667,50.1667,21.85,83,22,5.85,MG,1659977585
+Hasaki,35.7333,140.8333,27.38,87,98,9.55,JP,1659977585
+Pangody,65.85,74.4859,23.61,51,44,4.07,RU,1659977585
+Mar del Plata,-38.0023,-57.5575,12.01,79,40,2.68,AR,1659977585
+Dali,25.7,100.1833,17.41,90,18,1.41,CN,1659977585
+Boston,42.3584,-71.0598,36.25,52,40,6.69,US,1659977055
+Itoman,26.1247,127.6694,29.21,84,5,3.09,JP,1659976990
+Madaoua,14.073,5.96,32.49,50,100,6.09,NE,1659977323
+Sandviken,60.6167,16.7667,20.06,51,63,2.5,SE,1659977586
+Plettenberg Bay,-34.0527,23.3716,15.79,88,6,4.59,ZA,1659977586
+Chui,-33.6971,-53.4616,12.78,66,86,4.28,UY,1659977587
+Lagoa,39.05,-27.9833,23.26,77,37,6.92,PT,1659977587
+Soyo,-6.1349,12.3689,21.66,79,55,3.23,AO,1659977587
+Kiunga,-6.1219,141.2906,22.74,99,95,1.86,PG,1659977588
+Camacha,33.0833,-16.3333,21.68,64,75,6.69,PT,1659977588
+Baraboo,43.4711,-89.7443,22.08,83,100,4.63,US,1659977588
+Quatre Cocos,-20.2078,57.7625,21.06,75,16,5.93,MU,1659977588
+La Rioja,42.25,-2.5,30.88,29,79,3.52,ES,1659977589
+Maragogi,-9.0122,-35.2225,25.92,60,47,4.25,BR,1659977589
+Batemans Bay,-35.7167,150.1833,6.29,91,21,2.49,AU,1659977590
+Ndioum,16.5129,-14.6471,38.94,31,4,3.22,SN,1659977591
+Vila Franca do Campo,37.7167,-25.4333,24.23,78,56,2.75,PT,1659976997
+Guerrero Negro,27.9769,-114.0611,27.15,61,11,4.07,MX,1659977592
+Ugoofaaru,5.6667,73.0,27.35,84,100,6.5,MV,1659977592
+Mubende,0.5606,31.39,21.3,52,70,2.74,UG,1659977592
+Kurchum,48.5722,83.6542,21.97,32,80,4.12,KZ,1659977592
+Rio Grande,-32.035,-52.0986,17.06,74,74,6.18,BR,1659977593
+Bria,6.5423,21.9863,22.31,94,47,1.34,CF,1659977593
+Tiksi,71.6872,128.8694,10.49,96,100,3.08,RU,1659977593
+Khatanga,71.9667,102.5,13.35,92,87,3.65,RU,1659977593
+Bowen,-20.0167,148.2333,14.71,76,0,4.11,AU,1659977593
+Davila,18.4726,120.5763,26.71,79,100,3.1,PH,1659977594
+Corn Island,12.1694,-83.0418,27.11,83,100,4.94,NI,1659977594
+Preeceville,51.95,-102.6677,24.94,51,0,3.56,CA,1659977594
+Huoqiu,32.3394,116.2694,28.26,78,92,2.47,CN,1659977594
+Vostok,46.4856,135.8833,13.27,95,34,2.29,RU,1659977594
+Evensk,61.95,159.2333,9.33,85,13,0.88,RU,1659977595
+Grand Gaube,-20.0064,57.6608,21.22,74,18,1.34,MU,1659977595
+Ihiala,5.8538,6.8603,24.07,90,97,2.99,NG,1659977595
+Saint-Philippe,-21.3585,55.7679,19.77,78,41,3.83,RE,1659977596
+Bulungu,-4.55,18.6,32.13,24,15,1.34,CD,1659977596
+Ketchikan,55.3422,-131.6461,13.99,71,8,2.82,US,1659977597
+Bambanglipuro,-7.95,110.2833,24.18,86,95,2.75,ID,1659977018
+Aného,6.2333,1.6,27.11,69,24,7.44,TG,1659977597
+Ixtapa,20.7,-105.2,29.01,70,90,1.79,MX,1659977597
+Severo-Kuril'sk,50.6789,156.125,12.04,91,51,5.17,RU,1659977597
+Noyon,49.5833,3.0,25.36,24,15,5.79,FR,1659977598
+Karratha,-20.7377,116.8463,20.78,49,39,4.19,AU,1659977598
+Husavik,66.0449,-17.3389,14.09,57,52,8.56,IS,1659977598
+Bud,39.447,-86.1758,31.49,75,67,5.88,US,1659977599
+Dikson,73.5069,80.5464,6.09,98,100,9.81,RU,1659977599
+Khovu-Aksy,51.1333,93.6,13.29,67,61,1.48,RU,1659977599
+Port Elizabeth,-33.918,25.5701,16.72,91,0,1.03,ZA,1659977599
+Luanda,-8.8368,13.2343,22.0,73,75,2.57,AO,1659977346
+Eureka,40.8021,-124.1637,17.18,85,1,0.45,US,1659976849
+Bethel,41.3712,-73.414,33.59,66,75,6.17,US,1659977600
+Torbay,47.6666,-52.7314,22.99,81,75,6.69,CA,1659977600
+Padang,-0.9492,100.3543,25.01,82,23,1.67,ID,1659977460
+Cayenne,4.9333,-52.3333,33.02,7,0,4.12,GF,1659977483
+San Cristobal,7.7669,-72.225,30.1,45,10,3.95,VE,1659977600
+Lüderitz,-26.6481,15.1594,16.13,63,54,3.8,NA,1659977322
+Westport,41.1415,-73.3579,34.53,64,16,0.89,US,1659977601
+Nelidovo,56.2211,32.7774,16.7,64,61,0.9,RU,1659977601
+Diu,20.7141,70.9822,27.19,89,51,3.96,IN,1659977602
+Yulara,-25.2406,130.9889,10.93,34,27,4.29,AU,1659977602
+Vysotsk,60.6288,28.5705,16.91,67,84,2.03,RU,1659977603
+Ribeira Grande,38.5167,-28.7,25.22,78,40,5.14,PT,1659977603
+Coahuayana Viejo,18.7333,-103.6833,31.29,64,69,2.12,MX,1659977603
+Port Blair,11.6667,92.75,28.02,78,75,3.09,IN,1659977603
+Bethanien,-26.502,17.1583,17.8,16,44,4.36,NA,1659977604
+Kitgum,3.2783,32.8867,19.36,96,98,2.82,UG,1659977604
+Kalmunai,7.4167,81.8167,27.68,59,99,3.38,LK,1659977604
+Najrān,17.4924,44.1277,34.36,33,85,2.24,SA,1659977009
+Bambous Virieux,-20.3428,57.7575,21.14,78,40,2.57,MU,1659977604
+Ilulissat,69.2167,-51.1,3.15,93,100,0.99,GL,1659977605
+Bratsk,56.1325,101.6142,11.27,91,43,1.37,RU,1659977333
+Flin Flon,54.7682,-101.865,23.91,57,75,6.17,CA,1659977605
+Nome,64.5011,-165.4064,2.87,94,100,7.85,US,1659977605
+Yar-Sale,66.8333,70.8333,22.53,55,35,3.72,RU,1659977605
+Nikolskoye,59.7035,30.7861,14.95,95,100,1.77,RU,1659977606
+Gizo Government Station,-8.103,156.8419,27.11,77,100,1.46,SB,1659977606
+Dunedin,-45.8742,170.5036,3.78,70,88,0.89,NZ,1659977606
+Provideniya,64.3833,-173.3,2.43,76,91,4.58,RU,1659977606
+Moyale,3.5167,39.0584,21.2,50,51,3.55,KE,1659977606
+Edd,13.9297,41.6925,31.44,68,95,2.91,ER,1659977607
+Margate,51.3813,1.3862,22.17,70,6,2.24,GB,1659977607
+Mana,5.6592,-53.7767,30.72,53,78,3.44,GF,1659977607
+Samashki,43.2906,45.3014,22.62,59,5,1.11,RU,1659977607
+Byron Bay,-28.65,153.6167,10.95,85,40,5.36,AU,1659977607
+Seoul,37.5683,126.9778,25.76,100,100,3.09,KR,1659977324
+Andenes,69.3143,16.1194,14.4,76,75,2.57,NO,1659977608
+Viranşehir,37.2353,39.7631,34.48,27,0,5.73,TR,1659977609
+Leonidovo,49.2833,142.8667,17.03,98,100,1.27,RU,1659977609
+Norsup,-16.0667,167.3833,24.96,85,2,2.51,VU,1659977609
+Sitka,57.0531,-135.33,12.94,88,75,0.0,US,1659977609
+Sorong,-0.8833,131.25,25.67,85,100,0.78,ID,1659977609
+Barguzin,53.6167,109.6167,11.12,82,66,1.59,RU,1659977610
+Hong Kong,22.2855,114.1577,28.03,87,58,5.36,HK,1659977430
+Kapoeta,4.7717,33.5903,26.14,61,97,4.29,SS,1659977610
+Whitehorse,60.7161,-135.0538,11.72,68,75,5.66,CA,1659977610
+Paraná,-31.732,-60.5238,13.09,79,100,4.24,AR,1659977610
+Kargil,34.5667,76.1,17.9,48,99,3.65,IN,1659977313
+Gogrial,8.5332,28.1004,24.65,80,100,1.6,SS,1659977337
+Departamento de Maldonado,-34.6667,-54.9167,13.66,56,78,4.95,UY,1659977611
+Baruun-Urt,46.6806,113.2792,14.64,59,33,2.52,MN,1659977321
+Berdigestyakh,62.0989,126.6992,12.52,86,64,3.77,RU,1659977612
+Tataouine,32.9297,10.4518,32.99,27,0,6.6,TN,1659977367
+High Level,58.5169,-117.136,15.06,72,75,5.14,CA,1659977612
+Ostashkov,57.1467,33.1075,16.53,61,64,1.62,RU,1659977612
+Letka,59.6011,49.4232,18.16,89,61,2.47,RU,1659977612
+Chara,56.9064,118.2631,10.78,73,100,2.48,RU,1659977040
+Mount Isa,-20.7333,139.5,14.87,29,0,3.6,AU,1659977613
+Kampong Cham,11.9934,105.4635,22.85,88,100,1.83,KH,1659977613
+Ahipara,-35.1667,173.1667,10.59,91,11,1.31,NZ,1659977045
+Manta,-0.95,-80.7333,22.88,83,100,3.09,EC,1659977614
+Fort Morgan,40.2503,-103.8,27.36,45,2,4.31,US,1659977614
+Kumul,42.8,93.45,32.69,16,0,2.18,CN,1659977029
+Barsovo,61.1667,73.1667,22.07,71,21,2.92,RU,1659977614
+Tingi,-11.3,35.0333,15.84,56,2,1.34,TZ,1659977615
+Imbituba,-28.24,-48.6703,18.25,99,100,1.39,BR,1659977615
+Kudahuvadhoo,2.6708,72.8944,27.75,77,93,5.18,MV,1659977615
+Zhangaözen,43.3,52.8,25.77,33,100,4.56,KZ,1659977615
+Cururupu,-1.8283,-44.8683,31.09,54,32,3.32,BR,1659977024
+Codrington,-38.2667,141.9667,7.87,71,100,2.59,AU,1659977029
+Bo Rai,12.5728,102.5371,25.96,98,100,1.83,TH,1659977537
+Cabra,37.4725,-4.4421,34.69,20,0,4.63,ES,1659977616
+Paamiut,61.994,-49.6678,5.48,92,73,9.41,GL,1659977616
+Biak,-0.9131,122.8766,24.04,85,99,2.22,ID,1659977616
+Fairbanks,64.8378,-147.7164,10.05,92,100,0.0,US,1659977616
+Laas,46.6166,10.7002,27.49,53,62,1.43,IT,1659977617
+Kavieng,-2.5744,150.7967,27.27,79,80,5.21,PG,1659977617
+Kharitonovo,61.4009,47.4978,15.78,67,77,1.43,RU,1659977617
+Hervey Bay,-25.2986,152.8535,12.87,71,0,4.15,AU,1659977617
+East London,-33.0153,27.9116,16.52,100,40,2.57,ZA,1659977532
+Largo,27.9095,-82.7873,33.44,67,40,4.47,US,1659977618
+Conakry,9.538,-13.6773,27.04,83,75,4.12,GN,1659977618
+Tcholliré,8.4022,14.1698,24.82,85,62,1.05,CM,1659977618
+Maceió,-9.6658,-35.7353,29.69,48,20,3.6,BR,1659977618
+Richards Bay,-28.783,32.0377,18.78,84,94,4.88,ZA,1659977031
+Burns Lake,54.2331,-125.7533,11.68,51,0,1.34,CA,1659977619
+Adeje,28.1227,-16.726,29.01,57,20,9.26,ES,1659977620
+Qui Nhon,13.7667,109.2333,25.32,84,100,3.81,VN,1659977620
+Chifeng,42.2683,118.9636,21.38,42,100,2.33,CN,1659977620
+Wajir,1.7471,40.0573,29.98,35,0,4.12,KE,1659977620
+Hailey,43.5196,-114.3153,27.71,29,0,4.12,US,1659977620
+Narrabri,-30.3167,149.7833,6.28,80,2,2.59,AU,1659977621
+Pimentel,-6.8367,-79.9342,20.16,64,0,5.14,PE,1659977621
+Tymovskoye,50.8456,142.655,15.96,99,99,1.76,RU,1659977621
+Touros,-5.1989,-35.4608,27.88,65,7,8.57,BR,1659977621
+Pombas,17.1503,-25.0201,26.88,83,48,5.79,CV,1659977622
+Qaanaaq,77.484,-69.3632,4.07,59,81,1.3,GL,1659977622
+Marawi,7.9986,124.2928,19.85,96,100,0.66,PH,1659977622
+Boulder,40.0833,-105.3505,23.9,64,0,1.34,US,1659977622
+Kuril'sk,45.2333,147.8833,16.6,99,100,5.27,RU,1659977623
+Prince Rupert,54.3161,-130.3201,14.83,87,20,4.12,CA,1659977623
+Meulaboh,4.1363,96.1285,24.88,85,50,1.56,ID,1659977623
+Batagay-Alyta,67.8006,130.4114,11.4,85,91,1.89,RU,1659977623
+George Town,5.4112,100.3354,28.86,78,20,1.54,MY,1659977623
+Cabo San Lucas,22.8909,-109.9124,31.45,76,88,0.45,MX,1659977623
+Lavrentiya,65.5833,-171.0,3.31,86,100,5.02,RU,1659977624
+Oktyabr'skiy,54.4815,53.471,20.94,73,99,0.43,RU,1659977624
+Mount Gambier,-37.8333,140.7667,5.85,96,29,1.12,AU,1659977027
+Morón,-34.6534,-58.6198,13.94,65,54,3.37,AR,1659977624
+Uni,57.7535,51.4923,20.13,78,41,2.02,RU,1659977625
+Sandnessjøen,66.0217,12.6316,17.29,80,75,5.14,NO,1659977625
+Gushi,34.6425,109.5843,28.78,66,100,4.19,CN,1659977625
+Morgantown,39.6295,-79.9559,31.57,75,75,2.57,US,1659977625
+Tulun,54.5611,100.5792,12.89,78,5,0.04,RU,1659977626
+Tabriz,38.08,46.2919,26.7,41,20,6.17,IR,1659977626
+Los Llanos de Aridane,28.6585,-17.9182,22.86,73,40,6.69,ES,1659977626
+Bilma,18.6853,12.9164,37.56,26,18,5.57,NE,1659977626
+Kinablangan,7.6947,126.5503,24.9,86,100,2.74,PH,1659977626
+Hithadhoo,-0.6,73.0833,27.83,66,100,1.64,MV,1659977627
+Savannah Bight,16.45,-85.85,27.48,77,100,6.18,HN,1659977627
+Kerema,-7.9631,145.7785,25.32,88,87,2.95,PG,1659977627
+Ust'-Kulom,61.6864,53.6902,18.55,74,23,1.69,RU,1659977627
+Narón,43.5167,-8.1528,31.98,54,0,8.1,ES,1659977627
+Bengkulu,-3.8004,102.2655,24.54,90,18,3.03,ID,1659977572
+Naliya,23.2667,68.8333,27.96,80,100,1.92,IN,1659977628
+Betioky,-23.7167,44.3833,22.84,32,0,3.36,MG,1659977628
+South Lake Tahoe,38.9332,-119.9844,25.48,47,3,0.89,US,1659977628
+Warud,21.4667,78.2667,25.14,91,16,1.37,IN,1659977629
+Tuatapere,-46.1333,167.6833,-2.31,92,12,2.15,NZ,1659977629
+Nabire,-3.3667,135.4833,24.13,91,91,1.24,ID,1659977629
+Molochnoye,59.2917,39.6787,15.57,68,100,2.42,RU,1659977629
+Agartala,23.8364,91.275,25.58,93,31,3.74,IN,1659977629
+Nanning,22.8167,108.3167,26.25,81,35,1.37,CN,1659977630
+Shingū,33.7333,135.9833,25.82,93,99,2.24,JP,1659977630
+Lata,40.1629,-8.3327,28.6,47,0,4.68,PT,1659977630
+Sittwe,20.15,92.9,26.5,90,100,5.72,MM,1659977631
+Caravelas,-17.7125,-39.2481,26.37,60,26,5.29,BR,1659977631
+Houma,29.5958,-90.7195,32.22,76,28,2.24,US,1659977632
+Saldanha,-33.0117,17.9442,14.03,81,66,3.26,ZA,1659977481
+Upington,-28.4478,21.2561,20.21,32,0,1.54,ZA,1659977632
+Aitape,-3.1374,142.3475,25.04,88,89,2.6,PG,1659977632
+Amapá,1.0,-52.0,33.28,42,42,1.7,BR,1659977633
+Bathsheba,13.2167,-59.5167,30.34,94,75,9.77,BB,1659977633
+Doha,25.2867,51.5333,38.17,68,0,4.12,QA,1659977633
+Shīeli,44.1667,66.75,25.69,24,1,1.57,KZ,1659977633
+Cartagena,10.3997,-75.5144,32.79,62,40,2.06,CO,1659977633
+Río Gallegos,-51.6226,-69.2181,4.03,70,0,4.63,AR,1659977634
+Sompeta,18.9333,84.6,25.84,90,100,5.58,IN,1659977634
+Jalu,29.0331,21.5482,35.06,21,7,5.38,LY,1659977634
+Nhulunbuy,-12.2333,136.7667,24.34,83,8,4.63,AU,1659977634
+Warman,52.3168,-106.5679,28.38,50,75,1.03,CA,1659977634
+Tamiahua,21.2667,-97.45,30.5,56,7,2.83,MX,1659977635
+La Ronge,55.1001,-105.2842,22.14,53,20,5.66,CA,1659977635
+Sayyan,15.1718,44.3244,18.77,60,91,0.56,YE,1659977635
+Baie-Comeau,49.2168,-68.1489,18.82,48,0,4.63,CA,1659977635
+New Norfolk,-42.7826,147.0587,2.62,83,6,1.21,AU,1659977636
+Tianpeng,30.9866,103.9393,29.26,86,70,1.24,CN,1659977636
+Mazagão,-0.115,-51.2894,33.03,45,23,2.53,BR,1659977636
+Kavaratti,10.5669,72.642,27.06,84,100,9.29,IN,1659977636
+Kota Tinggi,1.7381,103.8999,28.02,90,27,1.21,MY,1659977637
+Swan Hill,-35.3378,143.5544,4.71,84,1,2.69,AU,1659977637
+Berlevåg,70.8578,29.0864,11.0,76,100,8.23,NO,1659977637
+Payo,-3.7508,103.6372,24.46,84,81,1.42,ID,1659977637
+Williams Lake,52.1415,-122.1445,18.76,51,0,3.6,CA,1659977638
+Birjand,32.8663,59.2211,29.26,17,0,7.2,IR,1659977638
+Yangi Marg`ilon,40.4272,71.7189,31.4,22,70,4.12,UZ,1659977638
+Poya,-21.35,165.15,19.72,85,94,3.09,NC,1659977638
+Kupino,54.3663,77.2981,16.02,84,61,4.42,RU,1659977639
+Amazar,53.858,120.875,12.18,72,100,3.84,RU,1659977639
+Avera,33.194,-82.5271,31.73,49,37,2.19,US,1659977639
+Inhambane,-23.865,35.3833,21.99,73,20,6.71,MZ,1659977639
+Kloulklubed,7.0419,134.2556,28.22,78,100,7.03,PW,1659977639
+Khawhai,23.3667,93.1167,16.49,99,37,0.99,IN,1659977640
+Buala,-8.145,159.5921,25.5,86,99,2.86,SB,1659977640
+Gävle,60.6745,17.1417,20.51,51,33,2.47,SE,1659977640
+Lesozavodsk,45.4794,133.4244,14.46,70,0,2.82,RU,1659977640
+Adrar,20.5022,-10.0711,44.17,8,33,5.88,MR,1659977641
+Shenkursk,62.1091,42.896,15.71,68,100,1.0,RU,1659977641
+Nautla,20.2167,-96.7833,30.37,57,13,3.79,MX,1659977641
+Huarmey,-10.0681,-78.1522,19.79,68,67,4.93,PE,1659977641
+Wawa,9.9022,4.4192,26.84,79,100,1.84,NG,1659977642
+Abu Kamal,34.4506,40.9171,36.37,13,0,3.17,SY,1659977642
+Souillac,-20.5167,57.5167,21.21,78,40,2.57,MU,1659977643
+Tocache,-8.1842,-76.5125,29.9,56,67,0.06,PE,1659977643
+Vancouver,49.2497,-123.1193,24.11,73,0,5.66,CA,1659977527
+Lakes Entrance,-37.8811,147.981,2.87,91,10,1.92,AU,1659977643
+Xining,36.6167,101.7667,21.14,72,70,4.88,CN,1659977643
+Vao,-22.6667,167.4833,21.0,72,60,8.24,NC,1659977644
+Comodoro Rivadavia,-45.8667,-67.5,6.92,70,20,6.17,AR,1659977644
+Tuscaloosa,33.2098,-87.5692,32.34,73,0,1.54,US,1659977549
+Bara,10.3744,10.7288,27.88,85,98,1.59,NG,1659977644
+Broome,42.2506,-75.833,32.8,66,83,3.13,US,1659977644
+Aquiraz,-3.9014,-38.3911,31.36,56,12,6.34,BR,1659977645
+Abohar,30.15,74.1833,30.77,64,31,2.65,IN,1659977645
+Khorixas,-20.3667,14.9667,26.0,15,1,4.64,NA,1659977645
+Pasni,25.2631,63.471,27.58,86,58,4.56,PK,1659977646
+Kuytun,54.3419,101.5036,12.58,76,1,1.07,RU,1659977646
+Vila Velha,-20.3297,-40.2925,30.97,71,0,5.14,BR,1659977646
+Hamilton,39.1834,-84.5333,32.08,71,75,6.17,US,1659977422
+Saint-Pierre,-21.3393,55.4781,19.95,79,0,2.57,RE,1659977647
+Tabuk,17.4189,121.4443,22.94,90,100,1.83,PH,1659977647
+Hambantota,6.1241,81.1185,25.93,82,90,6.7,LK,1659977647
+Kirakira,-10.4544,161.9205,26.7,81,96,2.34,SB,1659977648
+Qarchī Gak,37.04,66.7889,31.94,18,0,5.13,AF,1659977648
+São Manuel,-22.7311,-48.5706,21.68,63,100,1.97,BR,1659977648
+Arrondissement de Mende,44.6667,3.5,24.33,25,0,3.54,FR,1659977648
+Narsaq,60.9167,-46.05,9.27,64,100,3.0,GL,1659977649
+Banyo,6.75,11.8167,20.95,91,98,0.38,CM,1659977649
+Roald,62.5833,6.1333,20.09,82,75,4.63,NO,1659977649
+Vestmannaeyjar,63.4427,-20.2734,11.55,93,100,11.32,IS,1659977649
+Nesna,66.1967,13.0213,17.29,76,75,3.08,NO,1659977649
+Funtua,11.5233,7.3081,24.11,82,100,1.63,NG,1659977650
+Gračac,44.3006,15.8547,23.86,67,57,2.79,HR,1659977650
+Sangar,63.9242,127.4739,11.55,88,19,1.02,RU,1659977650
+Port Moresby,-9.4431,147.1797,23.68,83,20,5.14,PG,1659977650
+Portland,45.5234,-122.6762,25.41,60,1,1.79,US,1659977631
+Pineville,31.3224,-92.4343,32.74,67,6,1.31,US,1659977651
+Portmore,17.9702,-76.8672,34.47,66,40,8.23,JM,1659977651
+Vanavara,60.34,102.2797,11.1,84,60,1.65,RU,1659977651
+Aljezur,37.3191,-8.8033,22.86,64,6,3.9,PT,1659977651
+Rawlins,41.7911,-107.2387,23.53,29,1,4.44,US,1659977652
+Richmond,37.5538,-77.4603,33.44,64,20,4.12,US,1659977401
+Rafai,4.95,23.9167,24.83,72,96,1.37,CF,1659977652
+Mumford,5.2618,-0.759,24.17,79,45,5.21,GH,1659977652
+Tambura,5.6,27.4667,22.07,90,97,1.83,SS,1659977653
+Bayir,37.2687,28.2167,26.29,77,32,0.84,TR,1659977653
+Bandar-e Lengeh,26.5579,54.8807,35.06,63,16,4.12,IR,1659977653
+Daru,-9.0763,143.2092,24.85,86,99,6.8,PG,1659977653
+Minsk,53.9,27.5667,19.86,67,100,3.32,BY,1659977361
+Tarata,-17.6167,-66.0167,21.68,34,44,3.95,BO,1659977654
+Tilichiki,60.4667,166.1,10.38,91,59,0.93,RU,1659977654
+Boende,-0.2167,20.8667,28.05,53,74,0.68,CD,1659977654
+Magna,40.7091,-112.1016,30.02,38,0,1.79,US,1659977654
+Wanning,18.8003,110.3967,26.5,90,100,3.48,CN,1659977654
+Sinnamary,5.3833,-52.95,30.06,59,100,4.92,GF,1659977655
+Vilyuysk,63.7553,121.6247,11.8,96,96,1.82,RU,1659977655
+Sol'-Iletsk,51.1631,54.9918,24.96,44,90,3.41,RU,1659977655
+Tomatlán,19.9333,-105.25,31.93,57,100,0.77,MX,1659977655
+Kodinsk,58.6881,99.1844,13.71,79,49,0.93,RU,1659977656
+Mossamedes,-15.1961,12.1522,18.2,85,25,3.07,AO,1659977656
+Arlit,18.7369,7.3853,40.4,18,2,3.33,NE,1659977657
+Iqaluit,63.7506,-68.5145,9.85,76,20,3.09,CA,1659977657
+Challans,46.8436,-1.8749,32.51,20,97,6.83,FR,1659977657
+Auki,-8.7676,160.7034,24.34,89,84,2.26,SB,1659977657
+Masaba,10.5333,123.9667,24.0,84,100,1.79,PH,1659977657
+Klaksvík,62.2266,-6.589,11.51,81,59,6.39,FO,1659977658
+Rørvik,64.8621,11.2373,17.99,82,75,2.06,NO,1659977658
+Tual,-5.6667,132.75,26.4,83,54,9.02,ID,1659977659
+Vizinga,61.0749,50.1031,17.53,64,8,2.32,RU,1659977659
+Sosnogorsk,63.6023,53.8817,17.02,60,46,2.24,RU,1659977659
+São João da Barra,-21.6403,-41.0511,27.05,65,38,5.72,BR,1659977660
+Khovd,48.0056,91.6419,22.66,36,91,3.72,MN,1659977660
+Wangqing,43.3218,129.7634,13.01,87,18,0.23,CN,1659977660
+Te Anau,-45.4167,167.7167,-6.51,97,83,0.75,NZ,1659977660
+Fortuna,40.5982,-124.1573,17.19,86,100,0.0,US,1659977660
+Saint George,37.1041,-113.5841,33.57,27,0,2.06,US,1659977661
+Keflavik,64.0049,-22.5624,11.95,100,100,11.32,IS,1659977661
+Vila,42.0304,-8.1588,28.72,49,25,3.35,PT,1659977661
+Pathein,16.7833,94.7333,24.48,93,100,4.44,MM,1659977661
+Ponca City,36.707,-97.0856,34.01,48,97,3.22,US,1659977662
+Nizwá,22.9333,57.5333,36.98,26,80,3.43,OM,1659977662
+Severomuysk,56.1481,113.4267,3.96,93,100,1.77,RU,1659977662
+Tocopilla,-22.092,-70.1979,17.88,65,5,3.12,CL,1659977662
+Mandalgovi,45.7625,106.2708,19.19,60,98,2.42,MN,1659977662
+Itaituba,-4.2761,-55.9836,35.09,49,40,5.14,BR,1659977662
+Garissa,-0.4536,39.6401,26.38,46,69,11.07,KE,1659977663
+Alyangula,-13.8483,136.4192,23.36,67,3,6.53,AU,1659977663
+Ostrovnoy,68.0531,39.5131,11.47,78,94,6.67,RU,1659977663
+Nanortalik,60.1432,-45.2371,7.68,84,100,4.93,GL,1659977663
+Hofn,64.2539,-15.2082,10.52,92,99,11.06,IS,1659977663
+Orbe,46.725,6.5307,28.53,32,1,6.02,CH,1659977664
+Ambon City,-3.6954,128.1814,25.69,15,68,3.29,ID,1659977664
+Iskateley,67.6803,53.1512,15.03,57,58,5.47,RU,1659977664
+Moose Factory,51.2585,-80.6094,13.99,72,0,1.03,CA,1659977664
+Arman',59.7,150.1667,13.02,77,90,0.95,RU,1659977665
+Vallenar,-28.5708,-70.7581,21.37,15,1,1.58,CL,1659977665
+Honningsvåg,70.9821,25.9704,10.86,76,75,6.69,NO,1659977665
+Allāhganj,27.55,79.6833,31.44,64,47,2.64,IN,1659977665
+Atasū,48.6814,71.6433,19.28,52,52,4.54,KZ,1659977666
+Lafia,8.4833,8.5167,26.97,82,81,2.19,NG,1659977666
+Fort-Shevchenko,44.5086,50.263,24.95,67,68,5.52,KZ,1659977666
+Carutapera,-1.195,-46.02,30.62,60,26,4.77,BR,1659977666
+Akhisar,38.9185,27.8401,32.54,42,27,5.31,TR,1659977666
+Talāja,21.35,72.05,28.04,84,49,2.64,IN,1659977667
+Tautira,-17.7333,-149.15,23.78,58,96,7.23,PF,1659977668
+Vernon,50.2581,-119.2691,26.07,43,0,0.51,CA,1659977668
+Pryazha,61.6926,33.6216,17.57,69,100,1.97,RU,1659977668
+Maniitsoq,65.4167,-52.9,5.83,88,34,5.62,GL,1659977610
+Malinovoye Ozero,51.6753,79.7825,19.8,53,86,2.93,RU,1659977668
+Makat,47.6469,53.3463,32.01,23,70,6.11,KZ,1659977669
+Urdoma,61.7533,48.5442,15.8,63,84,1.93,RU,1659977669
+Strezhevoy,60.7333,77.5889,18.05,65,99,2.43,RU,1659977669
+Wattegama,6.7989,81.4808,25.63,67,99,4.79,LK,1659977669
+Muzaffarabad,34.37,73.4711,25.3,88,5,1.65,PK,1659977669
+Lofthus,59.9468,10.8018,21.18,43,75,1.94,NO,1659977670
+Oodweyne,9.4092,45.064,25.3,43,98,10.24,SO,1659977670
+Porto-Novo,6.4965,2.6036,26.9,66,87,5.04,BJ,1659977670
+San Quintín,30.4833,-115.95,24.69,71,46,2.8,MX,1659977670
+Isangel,-19.55,169.2667,23.52,88,5,4.49,VU,1659977671
+‘Āhuimanu,21.4447,-157.8378,25.76,75,0,3.6,US,1659977671
+Puquio,-14.7,-74.1333,16.72,31,88,3.83,PE,1659977671
+Robinsonville,31.4677,-97.1147,35.01,48,0,4.12,US,1659977671
+Norman Wells,65.282,-126.8329,13.02,82,40,1.54,CA,1659977672
+Pisco,-13.7,-76.2167,17.79,72,40,4.63,PE,1659977672
+Benguela,-12.5763,13.4055,20.74,81,17,2.52,AO,1659977673
+Port Macquarie,-31.4333,152.9167,7.72,89,5,4.66,AU,1659977674
+Dawlatabad,36.4141,64.9053,30.25,19,0,3.1,AF,1659977674
+Stavern,59.0,10.0333,21.85,82,0,3.16,NO,1659977674
+Flinders,-34.5833,150.8552,9.65,78,9,4.96,AU,1659977674
+Talcahuano,-36.7167,-73.1167,10.82,76,40,3.6,CL,1659977675
+Biratnagar,26.4831,87.2834,28.95,79,52,4.38,NP,1659977106
+Grand-Lahou,5.1367,-5.0242,24.79,75,98,4.44,CI,1659977675
+Rundu,-17.9333,19.7667,22.78,18,0,2.68,NA,1659977675
+Morton,46.7722,-101.2615,27.65,29,0,2.41,US,1659977675
+Eshowe,-28.8865,31.4699,14.37,76,21,4.57,ZA,1659977676
+Miandrivazo,-19.5167,45.4667,22.08,55,0,1.68,MG,1659977676
+Isiro,2.7739,27.616,21.87,80,97,1.34,CD,1659977676
+Corinth,37.9407,22.9573,29.38,43,0,5.6,GR,1659977676
+Mingshui,36.7167,117.5,25.14,97,100,2.02,CN,1659977676
+Saint-Alexandre,44.2278,4.6214,35.55,16,0,6.26,FR,1659977677
+Belmonte,-15.8631,-38.8828,25.89,58,7,4.79,BR,1659977677
+Macao,22.2006,113.5461,28.25,89,20,5.66,MO,1659977100
+Şebinkarahisar,40.2883,38.4236,18.15,77,11,3.06,TR,1659977677
+Kananga,-5.8958,22.4178,28.94,18,29,2.03,CD,1659977678
+Krasnosel'kup,65.7,82.4667,20.34,68,56,2.54,RU,1659977678
+Nantucket,41.2835,-70.0995,31.06,92,29,8.87,US,1659977678
+Nexø,55.0607,15.1306,19.05,63,6,2.18,DK,1659977678
+Flagstaff,35.1981,-111.6513,25.31,46,0,1.54,US,1659977679
+Stromness,58.965,-3.296,16.98,90,100,2.91,GB,1659977602
+Yantal',56.8471,105.2542,9.1,95,26,1.49,RU,1659977679
+Kotido,2.9806,34.1331,22.62,65,90,2.63,UG,1659977679
+Lima,-12.0432,-77.0282,18.28,75,100,4.12,PE,1659977679
+Changde,29.0464,111.6783,32.18,60,97,1.83,CN,1659977680
+Bamora,24.0552,78.0909,27.01,83,44,3.08,IN,1659977680
+Leningradskiy,69.3833,178.4167,-0.77,91,77,1.77,RU,1659977680
+Inongo,-1.95,18.2667,25.25,53,28,0.68,CD,1659977681
+Tyrma,50.0833,132.1667,10.82,96,70,1.08,RU,1659977681
+Polokwane,-23.9045,29.4688,23.47,20,0,3.6,ZA,1659977681
+Porto Murtinho,-21.6989,-57.8825,17.76,96,100,3.35,BR,1659977681
+Kortkeros,61.8106,51.5806,20.1,55,21,2.09,RU,1659977682
+General Roca,-39.0333,-67.5833,5.54,84,100,1.2,AR,1659977682
+Suntar,62.1444,117.6319,10.85,96,95,1.62,RU,1659977682
+Urucará,-2.5364,-57.76,36.28,33,30,2.99,BR,1659977683
+La Oroya,-11.5189,-75.8994,11.78,46,85,3.49,PE,1659977542
+Kaitong,44.8135,123.15,17.11,64,0,3.84,CN,1659977683
+Tabory,58.5198,64.5495,20.16,73,33,0.79,RU,1659977683
+Arcata,40.8665,-124.0828,17.34,81,100,0.0,US,1659977683
+Tarko-Sale,64.9225,77.785,23.12,58,57,5.79,RU,1659977684
+Thabazimbi,-24.5917,27.4116,16.78,13,0,2.78,ZA,1659977684
+Santa Cruz de Tenerife,28.4682,-16.2546,30.78,57,0,3.6,ES,1659977684
+Port Hardy,50.6996,-127.4199,15.1,82,75,2.06,CA,1659977684
+Pitimbu,-7.4706,-34.8086,28.33,67,34,7.11,BR,1659977685
+Mitsamiouli,-11.3847,43.2844,24.39,68,6,2.26,KM,1659977685
+Mataram,-8.5833,116.1167,24.45,87,24,3.48,ID,1659977635
+Sovetskiy,61.3614,63.5842,23.3,52,63,1.31,RU,1659977685
+Tjøme,59.1109,10.3933,21.84,67,0,4.63,NO,1659977686
+Taoudenni,22.6783,-3.9836,46.47,7,5,8.23,ML,1659977686
+Bom Jesus,-9.0744,-44.3586,36.8,19,15,3.74,BR,1659977686
+Inuvik,68.3499,-133.7218,13.56,76,40,4.12,CA,1659977686
+Kiryat Gat,31.61,34.7642,28.23,14,0,4.33,IL,1659977686
+Eirunepé,-6.6603,-69.8736,35.33,39,14,0.36,BR,1659977687
+Olafsvik,64.8945,-23.7142,10.89,91,93,8.41,IS,1659977687
+Barcelona,41.3888,2.159,33.34,57,0,4.12,ES,1659977415
+Tombouctou,20.0,-3.0,44.24,7,95,6.24,ML,1659977687
+Acajutla,13.5928,-89.8275,28.43,68,100,1.84,SV,1659977687
+Piney Green,34.716,-77.3202,32.32,66,20,2.57,US,1659977688
+Anadyr,64.75,177.4833,4.28,86,0,2.0,RU,1659977688
+Sumbe,-11.2061,13.8437,21.24,81,1,2.42,AO,1659977481
